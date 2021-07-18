@@ -1,0 +1,801 @@
+,Borough,Venue,VenueCategory,MeanCommute,IncomePerCap,Professional,Service,Walk,PublicWork,likes,VenueCategoryGroups
+0,Queens,Richie's Place Coffee Shop,Coffee Shop,47.1,14468.0,17.8,30.5,10.3,11.2,12,2
+1,Manhattan,CityRow,Gym / Fitness Center,27.0,95574.0,72.6,5.5,22.9,7.7,16,4
+2,Manhattan,Ole & Steen,Café,19.9,85826.0,74.8,3.6,47.7,1.6,6,2
+3,Manhattan,Park West Cafe & Deli,Café,30.1,28090.0,50.5,23.1,19.0,8.2,46,2
+4,Brooklyn,Tres Belle Spa,Spa,33.3,60451.0,69.0,11.1,6.7,9.9,13,4
+5,Bronx,Burger King,Fast Food Restaurant,38.7,31134.0,34.6,20.7,1.7,21.3,3,1
+6,Brooklyn,The Long Island Bar,Cocktail Bar,32.4,92429.0,76.3,5.7,13.1,10.4,489,2
+7,Staten Island,Kings Arms Diner,Diner,39.9,41245.0,44.6,23.8,5.3,22.6,18,1
+8,Queens,Key Food,Supermarket,43.0,27515.0,26.6,19.5,2.8,15.2,17,3
+9,Queens,Subway,Sandwich Place,38.5,23957.0,23.5,26.0,1.8,7.7,4,1
+10,Manhattan,Posto,Pizza Place,25.0,78800.0,67.7,9.1,27.0,4.1,137,0
+11,Manhattan,Variety Coffee Roasters,Coffee Shop,29.4,142557.0,77.0,3.5,11.4,4.4,27,2
+12,Manhattan,Wine Heaven,Wine Shop,22.7,80750.0,69.7,5.5,23.9,4.6,11,3
+13,Manhattan,William Greenberg Desserts,Bakery,24.1,209894.0,75.2,3.3,24.6,1.3,76,3
+14,Bronx,Jerome Drugs,Pharmacy,42.5,12208.0,9.1,40.9,7.1,4.5,1,3
+15,Queens,Victory Garden Cafe,Café,35.8,33706.0,47.7,12.6,9.4,8.9,7,2
+16,Queens,Rolly Kimbab,Korean Restaurant,43.8,39540.0,50.7,14.0,2.6,18.7,29,1
+17,Queens,Plaza Panini Cafe,Café,32.4,32673.0,36.2,23.7,7.3,3.4,6,2
+18,Queens,Aloft Long Island City-Manhattan View,Hotel,28.9,74751.0,70.2,9.5,1.9,8.5,27,4
+19,Staten Island,Walgreens,Pharmacy,40.5,31408.0,35.4,23.7,5.0,17.0,17,3
+20,Brooklyn,Aura Lounge,Bar,43.4,30987.0,40.5,22.4,3.7,22.8,19,2
+21,Brooklyn,Cousin John's Cafe and Bakery,Bakery,40.7,70579.0,75.6,3.9,5.0,12.4,147,3
+22,Manhattan,The Grange Bar & Eatery,Cocktail Bar,38.4,22172.0,31.3,29.7,7.7,12.0,323,2
+23,Bronx,Baskin-Robbins,Ice Cream Shop,42.5,12208.0,9.1,40.9,7.1,4.5,0,3
+24,Bronx,MATECAÑA,Deli / Bodega,37.9,12216.0,15.4,36.2,11.7,5.3,0,3
+25,Staten Island,Marketfresh supermarket,Supermarket,35.3,46678.0,43.1,15.0,0.8,30.1,3,3
+26,Bronx,Subway,Sandwich Place,43.8,20805.0,21.2,37.0,10.1,8.9,1,1
+27,Queens,MTA - Q27/Q30 Bus Stop,Bus Station,43.8,39540.0,50.7,14.0,2.6,18.7,0,5
+28,Brooklyn,The River Café,American Restaurant,22.5,80454.0,67.8,6.9,32.0,10.8,156,1
+29,Queens,Baskin-Robbins,Ice Cream Shop,45.5,33202.0,45.4,17.6,2.7,16.2,0,3
+30,Queens,Stop & Deli,Deli / Bodega,34.3,18147.0,26.4,21.0,12.6,6.2,5,3
+31,Manhattan,Parisi Bakery Delicatessen,Sandwich Place,27.8,68346.0,66.9,6.5,12.0,6.0,278,1
+32,Queens,Old Country Bagel,Bagel Shop,37.2,40302.0,44.2,11.8,0.5,16.6,20,3
+33,Queens,La Grotta di Marcello,Italian Restaurant,37.0,36960.0,44.7,14.5,4.6,18.1,7,0
+34,Bronx,Shore Haven bikepath,Park,43.0,22180.0,28.7,17.1,2.9,16.2,0,4
+35,Staten Island,Cafe Milano,Italian Restaurant,39.9,41245.0,44.6,23.8,5.3,22.6,19,0
+36,Manhattan,Neapolitan Express,Pizza Place,26.1,111599.0,67.6,2.6,24.1,4.6,54,0
+37,Bronx,Subway,Sandwich Place,38.2,15903.0,22.4,32.9,14.1,20.6,1,1
+38,Bronx,Pasta Pasta,Italian Restaurant,37.8,29807.0,34.4,24.7,8.4,19.2,9,0
+39,Manhattan,Downtown Bakery,Mexican Restaurant,30.8,58068.0,63.8,6.6,20.4,6.0,163,1
+40,Staten Island,Ariemma's Italian Deli,Deli / Bodega,40.5,31408.0,35.4,23.7,5.0,17.0,10,3
+41,Queens,Veggie Monster,Grocery Store,36.2,26473.0,31.9,28.3,2.3,3.5,5,3
+42,Manhattan,TriBeCa Spa of Tranquility,Spa,28.3,142738.0,70.2,4.1,20.6,9.5,61,4
+43,Queens,Walgreens,Pharmacy,40.2,30178.0,42.4,16.8,3.6,12.4,0,3
+44,Bronx,Full Moon Pizzeria,Pizza Place,40.8,13881.0,25.1,35.3,19.0,9.8,121,0
+45,Manhattan,Suited,Coffee Shop,23.7,77456.0,74.4,5.0,28.0,5.2,9,2
+46,Manhattan,Club 7 By Iowa Sports,Gym,26.8,82399.0,65.4,10.2,27.6,6.0,15,4
+47,Bronx,Tiny's Pizza & Pasta,Italian Restaurant,41.1,13799.0,8.4,39.8,10.0,10.9,6,0
+48,Brooklyn,La Bagel Delight,Bagel Shop,40.7,70579.0,75.6,3.9,5.0,12.4,89,3
+49,Manhattan,Cafe One,Café,38.4,22172.0,31.3,29.7,7.7,12.0,103,2
+50,Brooklyn,Linden Park,Park,49.8,18133.0,18.0,37.8,5.2,22.1,4,4
+51,Staten Island,Bario's,Pizza Place,50.5,29462.0,38.7,25.3,2.3,26.4,5,0
+52,Brooklyn,Blue Bottle Coffee,Coffee Shop,37.6,79572.0,81.2,2.0,11.1,11.2,59,2
+53,Manhattan,Liberty Park,Park,22.8,93787.0,75.2,2.5,27.6,5.6,168,4
+54,Brooklyn,Anor Spa,Spa,32.4,92429.0,76.3,5.7,13.1,10.4,11,4
+55,Bronx,Caribe Restaurant,Latin American Restaurant,42.3,25420.0,30.3,24.0,0.0,20.7,1,1
+56,Queens,Lotus Nails and Spa,Spa,41.3,33648.0,41.2,30.6,5.0,10.3,22,4
+57,Brooklyn,Walgreens,Pharmacy,38.6,32624.0,41.7,12.1,6.6,28.8,22,3
+58,Queens,Rico Pan Bakery,Bakery,36.2,26473.0,31.9,28.3,2.3,3.5,17,3
+59,Brooklyn,Key Food,Supermarket,50.0,27829.0,31.7,30.0,3.2,15.3,3,3
+60,Brooklyn,Walgreens,Pharmacy,49.7,34521.0,46.3,17.2,2.4,32.1,16,3
+61,Manhattan,Chambers Street Wines,Wine Shop,28.3,142738.0,70.2,4.1,20.6,9.5,90,3
+62,Manhattan,Noted Tribeca,Cocktail Bar,28.3,142738.0,70.2,4.1,20.6,9.5,13,2
+63,Queens,Takesushi,Sushi Restaurant,39.1,34488.0,38.6,24.3,7.5,9.8,81,1
+64,Queens,Planet Fitness,Gym / Fitness Center,28.9,74751.0,70.2,9.5,1.9,8.5,0,4
+65,Bronx,Kingsbridge Social Club,Pizza Place,42.1,32688.0,58.1,14.5,10.7,14.8,17,0
+66,Manhattan,The P.E. Club,Gym / Fitness Center,27.0,95574.0,72.6,5.5,22.9,7.7,28,4
+67,Manhattan,Rite Aid,Pharmacy,38.7,17854.0,24.9,33.0,11.8,12.6,3,3
+68,Manhattan,Shangri-La Nails & Spa,Spa,29.1,116699.0,75.6,8.3,15.3,8.5,8,4
+69,Manhattan,Caledonia Bar,Bar,31.3,91351.0,61.2,9.1,12.3,5.8,230,2
+70,Brooklyn,Fairway Cafe,American Restaurant,38.2,39277.0,48.5,22.2,12.7,7.7,9,1
+71,Queens,New Ho Wah,Chinese Restaurant,46.3,18926.0,20.2,38.8,4.4,22.9,0,1
+72,Manhattan,Grom,Ice Cream Shop,23.6,115333.0,75.1,3.8,35.9,6.2,46,3
+73,Brooklyn,Mosheer Tower Plaza Deli,Deli / Bodega,44.9,19021.0,18.7,40.6,5.9,33.4,0,3
+74,Manhattan,Thursday Kitchen,Korean Restaurant,30.0,59917.0,69.2,9.4,25.5,4.9,110,1
+75,Manhattan,New Home Sing,Chinese Restaurant,38.6,17791.0,35.7,30.9,5.8,15.4,5,1
+76,Brooklyn,Hungry Ghost,Coffee Shop,27.3,32328.0,64.1,10.3,24.5,17.4,20,2
+77,Bronx,Leche y Miel,Latin American Restaurant,42.1,32688.0,58.1,14.5,10.7,14.8,19,1
+78,Brooklyn,112 ROCKAWAY AVE GROCERY,Deli / Bodega,46.6,14719.0,24.3,30.6,3.6,17.7,0,3
+79,Brooklyn,Court Pastry Shop,Bakery,32.2,77933.0,67.5,7.8,11.2,6.7,62,3
+80,Manhattan,Upstate Craft Beer and Oyster Bar,Seafood Restaurant,30.8,58068.0,63.8,6.6,20.4,6.0,217,1
+81,Brooklyn,Schnitzis,Fast Food Restaurant,28.2,13915.0,30.3,12.7,34.4,3.3,1,1
+82,Bronx,Papa John's Pizza,Pizza Place,36.5,14963.0,15.4,48.5,16.2,10.9,0,0
+83,Bronx,McDonald's,Fast Food Restaurant,54.9,26663.0,33.3,29.8,7.0,31.7,17,1
+84,Manhattan,병천자매순대 (Byun Chung Soon Dae Restaurant) (Byun Chung Soon Dae Restaurant),Korean Restaurant,38.1,20375.0,33.0,28.8,7.3,9.8,16,1
+85,Manhattan,Yorkshire Wines & Spirits,Wine Shop,32.2,98530.0,73.8,6.9,15.5,8.3,52,3
+86,Manhattan,Dr. Wine,Wine Shop,34.9,109141.0,70.2,2.9,31.1,3.9,11,3
+87,Brooklyn,Chelsea Piers Fitness - Brooklyn,Gym / Fitness Center,30.3,65113.0,77.7,4.8,6.5,7.5,21,4
+88,Staten Island,Dolphin Fitness Club,Gym / Fitness Center,41.2,34085.0,49.7,14.3,1.6,21.3,7,4
+89,Manhattan,Chase Bank,Bank,37.9,56872.0,65.7,7.5,14.5,7.4,4,5
+90,Bronx,Villa Barone Ristorante,Italian Restaurant,38.7,31134.0,34.6,20.7,1.7,21.3,15,0
+91,Brooklyn,1 Hotel Brooklyn Bridge,Hotel,32.7,64507.0,66.6,9.3,9.1,9.3,98,4
+92,Queens,88 Canteen,Chinese Restaurant,43.5,19780.0,27.2,28.4,8.1,8.5,15,1
+93,Manhattan,Crank NYC,Gym / Fitness Center,37.9,56872.0,65.7,7.5,14.5,7.4,48,4
+94,Brooklyn,L'Industrie Pizzeria,Pizza Place,33.2,28717.0,42.0,19.9,9.0,7.9,60,0
+95,Brooklyn,Ab GROCERY STORE,Deli / Bodega,43.6,16396.0,17.7,29.9,10.8,10.7,0,3
+96,Manhattan,Pasquale Jones,Pizza Place,24.1,118156.0,65.7,2.7,16.3,1.4,360,0
+97,Brooklyn,Fine Fare,Supermarket,45.4,19544.0,34.6,27.7,9.4,20.6,2,3
+98,Queens,Xi'an Famous Foods,Chinese Restaurant,28.9,74751.0,70.2,9.5,1.9,8.5,14,1
+99,Manhattan,&pizza,Pizza Place,26.1,111599.0,67.6,2.6,24.1,4.6,2,0
+100,Queens,TD Bank,Bank,37.2,40302.0,44.2,11.8,0.5,16.6,2,5
+101,Bronx,Rincon Ecuatoriano,Latin American Restaurant,45.4,17986.0,35.4,20.9,3.0,15.5,0,1
+102,Queens,Café 1 of a Kind,Coffee Shop,37.0,36960.0,44.7,14.5,4.6,18.1,53,2
+103,Staten Island,Villaggio,Italian Restaurant,44.6,32292.0,44.2,15.8,0.1,29.3,0,0
+104,Manhattan,Aburiya Kinnosuke,Japanese Restaurant,25.5,111765.0,75.4,2.1,51.6,4.7,278,1
+105,Brooklyn,MTA Bus - B9 (Ave N & McDonald Ave),Bus Stop,39.0,20159.0,40.2,11.7,6.7,14.4,0,5
+106,Brooklyn,Dunkin',Donut Shop,31.8,38824.0,49.3,9.9,3.1,16.0,4,3
+107,Staten Island,4 Saint Paul's Cafe and Gallery,Café,46.9,35375.0,45.8,19.7,16.1,13.0,0,2
+108,Bronx,ALDI,Supermarket,36.5,14963.0,15.4,48.5,16.2,10.9,28,3
+109,Manhattan,Dae Dong Manor,Korean Restaurant,40.8,25720.0,32.4,23.4,8.0,12.7,15,1
+110,Brooklyn,Erie Basin Park,Park,38.2,39277.0,48.5,22.2,12.7,7.7,17,4
+111,Manhattan,Yakitori Sun-Chan,Japanese Restaurant,31.4,71846.0,74.4,7.5,14.2,12.1,87,1
+112,Manhattan,Equinox East 43rd Street,Gym,25.7,136078.0,93.1,0.0,58.6,0.0,119,4
+113,Queens,Ace  Bagel & Rolls,Bagel Shop,43.5,19780.0,27.2,28.4,8.1,8.5,5,3
+114,Queens,Planet Fitness,Gym,37.2,40302.0,44.2,11.8,0.5,16.6,3,4
+115,Bronx,Collucci Playground-Wilkinson Park,Playground,38.7,31134.0,34.6,20.7,1.7,21.3,0,5
+116,Queens,산에들에 (SanEhDeulEh) (SanEhDeulEh),Korean Restaurant,42.1,35634.0,46.5,17.4,6.9,14.8,0,1
+117,Staten Island,Dunkin',Donut Shop,40.2,33030.0,36.4,26.1,0.2,23.6,8,3
+118,Manhattan,Banh Mi Saigon,Sandwich Place,24.9,53593.0,50.2,15.7,33.6,6.0,458,1
+119,Manhattan,Kula Yoga Project,Yoga Studio,23.5,70170.0,60.0,7.1,28.6,3.9,48,4
+120,Brooklyn,Annie's First Wok,Chinese Restaurant,32.9,100012.0,79.5,4.0,7.6,6.7,3,1
+121,Manhattan,Dig Inn,American Restaurant,31.1,100936.0,69.4,5.5,11.3,8.2,69,1
+122,Manhattan,La Petite Cave,Wine Shop,23.7,77456.0,74.4,5.0,28.0,5.2,30,3
+123,Bronx,Jerry's Pizza,Pizza Place,43.1,18173.0,26.2,31.8,2.3,11.5,10,0
+124,Brooklyn,Kevin's,Seafood Restaurant,40.7,34346.0,48.7,17.7,13.7,4.6,13,1
+125,Brooklyn,The Black Flamingo,Café,40.7,34346.0,48.7,17.7,13.7,4.6,94,2
+126,Manhattan,Eat Pretty,Café,31.5,97580.0,67.6,4.0,12.0,4.7,6,2
+127,Manhattan,Corner Bagel Shop,Bagel Shop,37.9,56872.0,65.7,7.5,14.5,7.4,33,3
+128,Manhattan,Columbian Bakery,Bakery,38.6,17791.0,35.7,30.9,5.8,15.4,0,3
+129,Manhattan,Remi Flowers & Coffee,Café,26.8,101494.0,73.1,1.8,44.7,9.5,24,2
+130,Manhattan,Da Raffaele,Italian Restaurant,24.6,120863.0,65.9,7.6,42.9,5.8,6,0
+131,Queens,McDonald's,Fast Food Restaurant,37.0,36960.0,44.7,14.5,4.6,18.1,32,1
+132,Manhattan,Blue Bottle Coffee,Coffee Shop,26.1,111599.0,67.6,2.6,24.1,4.6,1,2
+133,Manhattan,York Farm Corp,Deli / Bodega,33.9,101680.0,73.3,6.3,11.8,6.0,11,3
+134,Brooklyn,Han Dynasty,Chinese Restaurant,33.5,50871.0,62.6,11.5,9.7,11.2,61,1
+135,Manhattan,Heyday,Spa,23.5,70170.0,60.0,7.1,28.6,3.9,33,4
+136,Queens,Taco Bell,Fast Food Restaurant,44.8,27850.0,53.5,12.1,2.8,16.6,0,1
+137,Brooklyn,Sunny's,Bar,38.2,39277.0,48.5,22.2,12.7,7.7,171,2
+138,Brooklyn,Baskin-Robbins,Ice Cream Shop,40.3,22181.0,20.9,34.4,12.5,33.0,0,3
+139,Queens,No. 1 Taste Restaurant,Chinese Restaurant,42.9,20317.0,19.0,31.0,2.9,13.3,0,1
+140,Queens,Woodside Cafe,American Restaurant,36.2,26473.0,31.9,28.3,2.3,3.5,14,1
+141,Manhattan,September Wines & Spirits,Wine Shop,28.8,60670.0,65.1,15.3,22.4,3.1,69,3
+142,Queens,Kumo,Sushi Restaurant,35.8,33706.0,47.7,12.6,9.4,8.9,2,1
+143,Brooklyn,Brooklyn Farmacy & Soda Fountain,Ice Cream Shop,37.1,79121.0,77.3,8.0,14.9,12.9,225,3
+144,Bronx,Enzo's,Italian Restaurant,40.8,13881.0,25.1,35.3,19.0,9.8,44,0
+145,Queens,Matsuri,Japanese Restaurant,36.2,26473.0,31.9,28.3,2.3,3.5,9,1
+146,Brooklyn,Le French Tart Deli,Bakery,32.2,77933.0,67.5,7.8,11.2,6.7,24,3
+147,Manhattan,The Amish Market,Grocery Store,29.9,91200.0,74.8,3.2,46.1,9.1,203,3
+148,Bronx,Conti's Pastry Shoppe,Coffee Shop,46.8,22513.0,22.4,28.1,7.1,16.8,17,2
+149,Brooklyn,La Piccola,Deli / Bodega,39.0,20159.0,40.2,11.7,6.7,14.4,1,3
+150,Staten Island,Starbucks,Coffee Shop,38.3,30255.0,35.2,15.8,2.0,17.0,1,2
+151,Brooklyn,Brooklyn Crab,Seafood Restaurant,38.2,39277.0,48.5,22.2,12.7,7.7,389,1
+152,Manhattan,Blackwell Playground,Playground,37.0,50463.0,73.6,6.4,5.1,16.7,3,5
+153,Manhattan,Hahm Ji Bach - 함지박,Korean Restaurant,36.2,16655.0,24.6,31.7,13.1,3.9,219,1
+154,Queens,MTA Bus - Rockaway Beach Bl & Beach 67 St (Q52),Bus Stop,50.8,22791.0,29.2,26.9,0.0,22.4,2,5
+155,Queens,Yeh's Bakery 紅葉,Bakery,39.7,16854.0,20.0,31.4,9.1,14.1,12,3
+156,Brooklyn,Relaxing On Smith,Spa,32.2,77933.0,67.5,7.8,11.2,6.7,25,4
+157,Manhattan,Think Coffee,Coffee Shop,25.0,78800.0,67.7,9.1,27.0,4.1,132,2
+158,Queens,TD Bank,Bank,39.7,16854.0,20.0,31.4,9.1,14.1,3,5
+159,Manhattan,Subway,Sandwich Place,38.6,17791.0,35.7,30.9,5.8,15.4,1,1
+160,Manhattan,TD Bank,Bank,30.7,74869.0,82.0,5.4,28.5,7.5,4,5
+161,Bronx,Jennifer Nail & Spa,Spa,37.8,29807.0,34.4,24.7,8.4,19.2,1,4
+162,Manhattan,Ferns,Bar,30.3,55645.0,66.3,13.4,21.6,8.3,129,2
+163,Queens,Bagel House,Bagel Shop,35.8,33706.0,47.7,12.6,9.4,8.9,25,3
+164,Bronx,Dunkin',Donut Shop,40.3,13599.0,8.1,44.8,7.0,10.9,20,3
+165,Manhattan,Starbucks,Coffee Shop,25.7,68495.0,66.2,7.1,36.0,5.9,32,2
+166,Queens,Taeneung,Korean Restaurant,37.8,45570.0,62.1,7.1,2.3,10.4,0,1
+167,Brooklyn,Travel Bar,Bar,35.9,68519.0,71.1,8.7,10.1,19.4,54,2
+168,Manhattan,Interlude Cafe,Café,28.3,142738.0,70.2,4.1,20.6,9.5,19,2
+169,Manhattan,MTA Bus - Glen St & Victory (X19/X22/X22A),Bus Stop,48.8,34826.0,34.6,14.1,0.7,27.6,0,5
+170,Staten Island,Starbucks,Coffee Shop,35.3,46678.0,43.1,15.0,0.8,30.1,2,2
+171,Brooklyn,Ice Cream Truck,Ice Cream Shop,30.9,27355.0,40.7,27.6,29.7,19.8,2,3
+172,Staten Island,Elm Park Deli & Grocery,Deli / Bodega,47.0,26332.0,38.2,25.3,5.1,24.8,0,3
+173,Staten Island,MTA Bus - Hylan Bl & Vaughn St (S78),Bus Stop,35.3,46678.0,43.1,15.0,0.8,30.1,0,5
+174,Staten Island,Dunkin',Donut Shop,50.5,29462.0,38.7,25.3,2.3,26.4,5,3
+175,Queens,Jollibee,Fast Food Restaurant,34.3,18147.0,26.4,21.0,12.6,6.2,227,1
+176,Brooklyn,Daigo Hand Roll Bar,Japanese Restaurant,33.5,50871.0,62.6,11.5,9.7,11.2,26,1
+177,Bronx,Dunkin',Donut Shop,34.5,24619.0,31.8,29.8,15.7,10.3,19,3
+178,Manhattan,Life in Motion: Yoga Cycling Barre,Yoga Studio,37.2,71348.0,74.2,8.2,7.3,6.9,14,4
+179,Brooklyn,Haenyeo,Korean Restaurant,36.0,63430.0,79.1,3.5,11.4,11.2,46,1
+180,Brooklyn,Hot Bagels,Bagel Shop,40.7,34346.0,48.7,17.7,13.7,4.6,11,3
+181,Manhattan,Fever-Tree Porch At Bryant Park,Bar,19.9,85826.0,74.8,3.6,47.7,1.6,5,2
+182,Manhattan,citizenM Bowery,Hotel,24.9,53593.0,50.2,15.7,33.6,6.0,19,4
+183,Manhattan,The Lazy Llama Coffee Bar,Coffee Shop,27.1,55379.0,67.8,7.2,20.2,6.9,37,2
+184,Brooklyn,St. Anselm,American Restaurant,31.6,62145.0,75.9,6.5,4.9,4.9,918,1
+185,Brooklyn,Prema Yoga,Yoga Studio,35.9,68519.0,71.1,8.7,10.1,19.4,33,4
+186,Manhattan,Tenzan,Sushi Restaurant,24.6,120863.0,65.9,7.6,42.9,5.8,123,1
+187,Queens,Sotto Le Stelle,Pizza Place,41.3,33648.0,41.2,30.6,5.0,10.3,50,0
+188,Manhattan,Bryant Park,Park,19.9,85826.0,74.8,3.6,47.7,1.6,3920,4
+189,Brooklyn,Wendy’s,Fast Food Restaurant,60.3,28869.0,38.0,29.7,1.8,26.1,9,1
+190,Brooklyn,Mill Basin Bagel Cafe,Bagel Shop,37.8,36838.0,41.8,18.2,1.6,19.8,38,3
+191,Queens,Avenue Z Desserts,Bakery,46.3,18926.0,20.2,38.8,4.4,22.9,0,3
+192,Bronx,"MTA MaBSTOA Bus at East 167th St & Morris Ave: (Bx32, Bx35)",Bus Station,41.1,13799.0,8.4,39.8,10.0,10.9,1,5
+193,Brooklyn,Table 87,Italian Restaurant,37.6,56582.0,66.3,6.0,5.5,13.3,109,0
+194,Bronx,Mta Bx 5,Bus Station,48.5,13846.0,26.3,32.0,7.2,24.2,0,5
+195,Brooklyn,Park Slope Yoga,Yoga Studio,40.7,70579.0,75.6,3.9,5.0,12.4,31,4
+196,Bronx,Antonio's Trattoria,Italian Restaurant,40.8,13881.0,25.1,35.3,19.0,9.8,47,0
+197,Manhattan,Noy Skincare,Spa,24.1,108621.0,73.5,3.1,51.1,5.4,18,4
+198,Bronx,New Morris Deli,Deli / Bodega,46.8,22513.0,22.4,28.1,7.1,16.8,22,3
+199,Brooklyn,Court Street Bagels,Bagel Shop,31.8,79747.0,72.6,12.9,12.0,7.6,65,3
+200,Queens,Starbucks,Coffee Shop,43.8,39540.0,50.7,14.0,2.6,18.7,3,2
+201,Brooklyn,Luzzo's BK,Pizza Place,32.4,92429.0,76.3,5.7,13.1,10.4,169,0
+202,Bronx,Kiraku Hibachi & Sushi,Sushi Restaurant,31.8,35402.0,50.0,21.5,16.9,23.7,12,1
+203,Manhattan,M'o Gelato,Ice Cream Shop,24.9,53593.0,50.2,15.7,33.6,6.0,67,3
+204,Queens,Alingan Wine & Liquor,Wine Shop,35.8,33706.0,47.7,12.6,9.4,8.9,5,3
+205,Manhattan,Famous Fish Market,Seafood Restaurant,35.6,33640.0,50.4,25.6,7.5,9.1,79,1
+206,Queens,F. Ottomanelli Burgers and Belgian Fries,Burger Joint,36.2,26473.0,31.9,28.3,2.3,3.5,70,1
+207,Queens,Bean & Bean,Coffee Shop,42.1,35634.0,46.5,17.4,6.9,14.8,5,2
+208,Manhattan,Sistina,Italian Restaurant,24.1,209894.0,75.2,3.3,24.6,1.3,31,0
+209,Bronx,Fine Fare,Supermarket,49.0,29947.0,30.3,25.2,5.8,18.9,2,3
+210,Staten Island,The Original Goodfella's Brick Oven Pizza,Pizza Place,40.5,31408.0,35.4,23.7,5.0,17.0,70,0
+211,Bronx,Mario's Restaurant & Catering,Italian Restaurant,40.8,13881.0,25.1,35.3,19.0,9.8,57,0
+212,Brooklyn,Daily Press Coffee,Coffee Shop,46.6,14719.0,24.3,30.6,3.6,17.7,34,2
+213,Manhattan,PuTawn Local Thai Kitchen,Thai Restaurant,31.5,97580.0,67.6,4.0,12.0,4.7,27,1
+214,Queens,Burger King/Popeyes,Fast Food Restaurant,37.2,40302.0,44.2,11.8,0.5,16.6,5,1
+215,Staten Island,Perkins Restaurant & Bakery,American Restaurant,43.2,32481.0,46.7,13.9,2.9,15.9,45,1
+216,Queens,Subway,Sandwich Place,37.2,40302.0,44.2,11.8,0.5,16.6,1,1
+217,Manhattan,Plowshares Coffee Bloomingdale,Coffee Shop,37.2,71348.0,74.2,8.2,7.3,6.9,181,2
+218,Queens,Dunkin',Donut Shop,37.8,45570.0,62.1,7.1,2.3,10.4,28,3
+219,Manhattan,Equinox Wall Street,Gym,24.9,89303.0,71.9,3.0,27.8,5.9,308,4
+220,Manhattan,Mr. Tofu,Korean Restaurant,39.5,29360.0,29.5,26.0,11.7,7.6,18,1
+221,Manhattan,Emack & Bolio's Ice Cream,Ice Cream Shop,31.5,97580.0,67.6,4.0,12.0,4.7,307,3
+222,Bronx,Dunkin',Donut Shop,42.5,12208.0,9.1,40.9,7.1,4.5,28,3
+223,Brooklyn,Yoshi,Japanese Restaurant,50.2,27882.0,36.4,23.9,2.0,26.8,7,1
+224,Bronx,Clason Point Park,Park,45.0,27700.0,32.2,23.4,1.4,25.3,7,4
+225,Bronx,Mike's Deli,Deli / Bodega,40.8,13881.0,25.1,35.3,19.0,9.8,18,3
+226,Brooklyn,Sushi Katsuei,Japanese Restaurant,37.6,79572.0,81.2,2.0,11.1,11.2,107,1
+227,Brooklyn,Coffey Park,Park,44.8,13176.0,14.3,32.4,17.3,15.0,45,4
+228,Manhattan,Pier 25 - Hudson River Park,Park,28.3,142738.0,70.2,4.1,20.6,9.5,194,4
+229,Bronx,Arthur Avenue Fiasco,Italian Restaurant,40.8,13881.0,25.1,35.3,19.0,9.8,10,0
+230,Bronx,Emilio's Pizza,Pizza Place,36.2,23930.0,38.4,16.5,17.1,11.0,43,0
+231,Queens,Hagane,Japanese Restaurant,37.2,40302.0,44.2,11.8,0.5,16.6,13,1
+232,Brooklyn,Los Papis,Latin American Restaurant,32.9,100012.0,79.5,4.0,7.6,6.7,44,1
+233,Manhattan,Y7 – Upper East Side,Yoga Studio,26.8,141682.0,79.0,1.7,11.6,2.9,49,4
+234,Queens,Roma's Deli,Deli / Bodega,40.5,44662.0,50.3,19.5,6.8,17.6,0,3
+235,Brooklyn,Key Fresh & Natural,Grocery Store,43.6,16396.0,17.7,29.9,10.8,10.7,1,3
+236,Queens,Chase Bank,Bank,44.7,29973.0,43.7,12.4,2.3,14.0,2,5
+237,Manhattan,Simply Wine,Wine Shop,24.9,89303.0,71.9,3.0,27.8,5.9,20,3
+238,Manhattan,Hanyang Mart,Supermarket,40.8,25720.0,32.4,23.4,8.0,12.7,35,3
+239,Bronx,Moe's Southwest Grill,Mexican Restaurant,54.9,26663.0,33.3,29.8,7.0,31.7,1,1
+240,Bronx,Fish N Chips,Seafood Restaurant,36.5,13793.0,13.4,44.1,5.3,13.6,0,1
+241,Queens,Skillman Famous Pizza and Coffee Shop,Pizza Place,41.3,33648.0,41.2,30.6,5.0,10.3,10,0
+242,Queens,The Classic Diner,Diner,42.9,20317.0,19.0,31.0,2.9,13.3,58,1
+243,Manhattan,Chinelos,Mexican Restaurant,38.6,17791.0,35.7,30.9,5.8,15.4,6,1
+244,Manhattan,Geo Si Gi Restaurant,Korean Restaurant,39.5,29360.0,29.5,26.0,11.7,7.6,34,1
+245,Queens,Hilton Garden Inn,Hotel,28.9,74751.0,70.2,9.5,1.9,8.5,59,4
+246,Manhattan,Smith & Mills,American Restaurant,28.3,142738.0,70.2,4.1,20.6,9.5,350,1
+247,Bronx,CTown Supermarkets,Grocery Store,44.1,10361.0,12.7,44.5,11.2,7.1,1,3
+248,Manhattan,Complete Body,Gym,24.9,89303.0,71.9,3.0,27.8,5.9,80,4
+249,Manhattan,Vittorio's Pizza Plus,Pizza Place,35.6,33640.0,50.4,25.6,7.5,9.1,15,0
+250,Manhattan,Mikey Likes It Ice Cream,Ice Cream Shop,30.0,59917.0,69.2,9.4,25.5,4.9,240,3
+251,Manhattan,Katz's Delicatessen,Sandwich Place,28.8,60670.0,65.1,15.3,22.4,3.1,1575,1
+252,Staten Island,Fatboys Deli & Bagels,Bagel Shop,42.2,35567.0,38.8,13.4,2.3,18.3,2,3
+253,Brooklyn,Rite Aid,Pharmacy,47.4,25642.0,33.4,17.2,4.3,30.8,4,3
+254,Queens,Alba's Pizza & Restaurant,Italian Restaurant,35.8,33706.0,47.7,12.6,9.4,8.9,27,0
+255,Staten Island,La Campeña,Deli / Bodega,42.4,19980.0,28.9,38.0,1.7,17.4,0,3
+256,Manhattan,Italianissimo Ristorante,Italian Restaurant,32.2,98530.0,73.8,6.9,15.5,8.3,33,0
+257,Queens,Capital One Bank,Bank,37.8,45570.0,62.1,7.1,2.3,10.4,0,5
+258,Bronx,Madonia Bakery,Bakery,40.8,13881.0,25.1,35.3,19.0,9.8,78,3
+259,Queens,Varsi Salumeria,Deli / Bodega,37.1,28556.0,39.7,16.8,2.2,15.5,9,3
+260,Bronx,R&Z Gourmet Deli,Deli / Bodega,46.8,22513.0,22.4,28.1,7.1,16.8,2,3
+261,Staten Island,Joann's Deli,Deli / Bodega,40.5,28115.0,43.8,24.3,5.1,29.7,6,3
+262,Bronx,Zeppieri & Sons Italian Bakery,Bakery,42.7,28686.0,31.4,30.5,1.6,22.0,31,3
+263,Queens,Mi Casa Bar & Restaurant,Latin American Restaurant,46.8,24046.0,44.6,22.1,10.1,12.4,11,1
+264,Brooklyn,Blue Collar,Burger Joint,33.2,28717.0,42.0,19.9,9.0,7.9,263,1
+265,Manhattan,Ludlow Coffee Supply,Coffee Shop,28.8,60670.0,65.1,15.3,22.4,3.1,297,2
+266,Manhattan,Follia,Italian Restaurant,23.6,106434.0,73.8,6.2,24.7,4.2,51,0
+267,Staten Island,Burrito Bar,Mexican Restaurant,34.8,40747.0,49.5,15.8,2.1,30.1,71,1
+268,Manhattan,Il Caffe Latte,Café,41.5,21559.0,30.2,28.8,5.4,11.2,48,2
+269,Bronx,Ann Clair's Salumeria,Deli / Bodega,36.0,31680.0,31.6,43.9,18.4,18.6,51,3
+270,Queens,CVS pharmacy,Pharmacy,47.1,14468.0,17.8,30.5,10.3,11.2,7,3
+271,Manhattan,Baker's Pizza,Pizza Place,30.0,59917.0,69.2,9.4,25.5,4.9,42,0
+272,Brooklyn,Cobble Hill Park,Park,32.4,92429.0,76.3,5.7,13.1,10.4,56,4
+273,Brooklyn,Lift / Next Level Floats (Brooklyn),Spa,32.2,77933.0,67.5,7.8,11.2,6.7,37,4
+274,Manhattan,Milk & Cream Cereal Bar,Ice Cream Shop,24.9,53593.0,50.2,15.7,33.6,6.0,168,3
+275,Manhattan,Chase Bank,Bank,38.6,17791.0,35.7,30.9,5.8,15.4,1,5
+276,Manhattan,Gourmet Unlimited Deli,Sandwich Place,28.5,89203.0,67.6,11.1,33.0,4.2,12,1
+277,Manhattan,Champion Pizza,Pizza Place,24.1,118156.0,65.7,2.7,16.3,1.4,913,0
+278,Manhattan,Dunkin',Donut Shop,35.6,33640.0,50.4,25.6,7.5,9.1,49,3
+279,Manhattan,Bubby's,American Restaurant,28.3,142738.0,70.2,4.1,20.6,9.5,546,1
+280,Bronx,Harding Park,Park,43.0,22180.0,28.7,17.1,2.9,16.2,4,4
+281,Manhattan,Takahachi Bakery,Bakery,22.5,80454.0,67.8,6.9,32.0,10.8,251,3
+282,Manhattan,NR,Cocktail Bar,33.3,81356.0,70.1,2.3,18.0,5.3,17,2
+283,Bronx,Ray's Pizza Restaurant,Pizza Place,42.9,14559.0,9.3,43.8,6.5,3.4,2,0
+284,Staten Island,Orange Leaf,Ice Cream Shop,43.0,48817.0,41.4,9.6,0.7,15.3,1,3
+285,Brooklyn,Luke's Lobster,Seafood Restaurant,22.5,80454.0,67.8,6.9,32.0,10.8,66,1
+286,Brooklyn,Gran Eléctrica,Mexican Restaurant,32.9,100012.0,79.5,4.0,7.6,6.7,233,1
+287,Bronx,Best Deli & Grocery,Deli / Bodega,29.1,7124.0,24.1,23.2,36.5,11.0,15,3
+288,Brooklyn,Mr. Kam,Chinese Restaurant,37.8,36838.0,41.8,18.2,1.6,19.8,0,1
+289,Bronx,Dominick's Restaurant,Italian Restaurant,40.8,13881.0,25.1,35.3,19.0,9.8,101,0
+290,Manhattan,Birch Coffee,Coffee Shop,31.1,100936.0,69.4,5.5,11.3,8.2,82,2
+291,Brooklyn,Bklyn Habit,Coffee Shop,35.9,68519.0,71.1,8.7,10.1,19.4,51,2
+292,Queens,Starbucks,Coffee Shop,28.9,74751.0,70.2,9.5,1.9,8.5,24,2
+293,Bronx,Golden City Chinese Restaurant,Chinese Restaurant,48.5,13846.0,26.3,32.0,7.2,24.2,0,1
+294,Manhattan,Sushi Suki,Sushi Restaurant,31.5,97580.0,67.6,4.0,12.0,4.7,19,1
+295,Manhattan,Wholesome Factory,Deli / Bodega,37.0,50463.0,73.6,6.4,5.1,16.7,25,3
+296,Manhattan,The Ludlow Hotel,Hotel,28.8,60670.0,65.1,15.3,22.4,3.1,82,4
+297,Staten Island,Bars,Bar,43.0,48817.0,41.4,9.6,0.7,15.3,0,2
+298,Manhattan,Blue Bottle Coffee,Coffee Shop,19.9,85826.0,74.8,3.6,47.7,1.6,736,2
+299,Brooklyn,68 Jay St Bar,Bar,32.9,100012.0,79.5,4.0,7.6,6.7,59,2
+300,Manhattan,Bagelworks,Bagel Shop,25.7,68495.0,66.2,7.1,36.0,5.9,67,3
+301,Manhattan,Taqueria Y Fonda,Mexican Restaurant,37.2,71348.0,74.2,8.2,7.3,6.9,124,1
+302,Queens,First Stop Bar&Grill,Bar,28.9,74751.0,70.2,9.5,1.9,8.5,4,2
+303,Staten Island,Gogo's deli,Deli / Bodega,35.3,46678.0,43.1,15.0,0.8,30.1,0,3
+304,Bronx,Pizza Hut,Pizza Place,38.8,13290.0,19.5,40.5,10.1,15.2,4,0
+305,Brooklyn,Rite Aid,Pharmacy,51.7,31632.0,42.7,24.6,5.4,27.5,10,3
+306,Manhattan,La Vela Dining & Bar,Italian Restaurant,26.8,82399.0,65.4,10.2,27.6,6.0,24,0
+307,Staten Island,Bin 5,Italian Restaurant,43.2,34202.0,30.7,13.5,6.6,15.5,19,0
+308,Manhattan,West Harlem Piers Park,Park,40.7,11947.0,22.0,25.0,7.0,19.4,34,4
+309,Staten Island,Chase Bank,Bank,37.7,22573.0,37.5,17.0,7.3,16.3,3,5
+310,Manhattan,P&M Pizza,Pizza Place,41.5,21559.0,30.2,28.8,5.4,11.2,5,0
+311,Brooklyn,king,Chinese Restaurant,47.4,25642.0,33.4,17.2,4.3,30.8,0,1
+312,Manhattan,Kaffe 1668,Coffee Shop,28.3,142738.0,70.2,4.1,20.6,9.5,164,2
+313,Staten Island,Pasticceria Bruno,Café,34.8,40747.0,49.5,15.8,2.1,30.1,49,2
+314,Staten Island,Main Street Deli And Grocery,Deli / Bodega,41.0,31048.0,39.0,17.5,0.8,24.5,1,3
+315,Bronx,Tilila,Bar,47.2,25801.0,25.4,29.3,5.4,14.7,35,2
+316,Manhattan,Bluestone Lane,Café,28.0,144947.0,72.5,2.4,6.9,13.0,154,2
+317,Queens,Prima Pasta & Cafe,Italian Restaurant,37.2,40302.0,44.2,11.8,0.5,16.6,36,0
+318,Manhattan,Pure Barre,Gym / Fitness Center,28.3,142738.0,70.2,4.1,20.6,9.5,12,4
+319,Queens,Subway,Sandwich Place,43.3,24978.0,34.6,15.7,14.9,16.7,4,1
+320,Brooklyn,Shake Shack,Burger Joint,29.5,71247.0,79.0,2.0,15.5,7.5,563,1
+321,Manhattan,Chick-Fil-A,Fast Food Restaurant,32.2,98530.0,73.8,6.9,15.5,8.3,12,1
+322,Queens,Rite Aid,Pharmacy,37.4,34417.0,37.9,25.0,3.5,5.0,26,3
+323,Manhattan,Y7 Studio - Tribeca,Gym / Fitness Center,23.5,70170.0,60.0,7.1,28.6,3.9,20,4
+324,Brooklyn,Grand Army,Seafood Restaurant,33.3,60451.0,69.0,11.1,6.7,9.9,154,1
+325,Brooklyn,Tony Luke's,Sandwich Place,28.5,69786.0,65.9,11.8,17.6,9.5,20,1
+326,Staten Island,K&S Bagels,Bagel Shop,41.2,34085.0,49.7,14.3,1.6,21.3,1,3
+327,Bronx,Shop Smart Food Mart Soundview Ave,Grocery Store,43.0,22180.0,28.7,17.1,2.9,16.2,1,3
+328,Bronx,Baskin-Robbins,Ice Cream Shop,42.8,12742.0,18.2,31.4,6.0,9.2,0,3
+329,Manhattan,Emmy Squared,Pizza Place,30.8,58068.0,63.8,6.6,20.4,6.0,153,0
+330,Brooklyn,Rockaway Avenue & Atlantic Avenue,Bus Stop,46.6,14719.0,24.3,30.6,3.6,17.7,0,5
+331,Queens,Phil & Son's Pizzeria,Pizza Place,43.5,19780.0,27.2,28.4,8.1,8.5,10,0
+332,Queens,Rolly,Korean Restaurant,42.1,35634.0,46.5,17.4,6.9,14.8,4,1
+333,Brooklyn,Whole Foods Market,Grocery Store,34.0,53640.0,58.6,10.5,6.3,6.6,461,3
+334,Manhattan,MTA MaBSTOA Bus at W. 125th Street & 12th Ave (West Harlem Piers Terminal): (Bx15),Bus Station,33.4,33953.0,63.3,12.4,19.6,12.5,0,5
+335,Manhattan,Umi No Ie,Japanese Restaurant,27.1,55379.0,67.8,7.2,20.2,6.9,96,1
+336,Manhattan,Insomnia Cookies,Bakery,28.8,60670.0,65.1,15.3,22.4,3.1,48,3
+337,Queens,Sagar Chinese,Chinese Restaurant,47.1,14468.0,17.8,30.5,10.3,11.2,17,1
+338,Staten Island,Mario's,Italian Restaurant,43.0,48817.0,41.4,9.6,0.7,15.3,17,0
+339,Bronx,Dunkin',Donut Shop,42.9,14559.0,9.3,43.8,6.5,3.4,0,3
+340,Staten Island,Christopher's Food Mart,Grocery Store,42.2,35567.0,38.8,13.4,2.3,18.3,4,3
+341,Staten Island,Staten Island Fish Fry,Seafood Restaurant,46.9,35375.0,45.8,19.7,16.1,13.0,0,1
+342,Staten Island,Chase Bank,Bank,34.8,40747.0,49.5,15.8,2.1,30.1,5,5
+343,Staten Island,Taqueria El Gallo Azteca,Mexican Restaurant,46.9,35375.0,45.8,19.7,16.1,13.0,12,1
+344,Brooklyn,Roebling Pizza,Pizza Place,27.5,16314.0,43.5,13.8,24.5,7.5,14,0
+345,Brooklyn,FYBO Gym,Gym,37.1,25254.0,35.0,24.8,11.4,13.6,0,4
+346,Manhattan,Picasso Pizzeria,Pizza Place,33.5,105958.0,77.1,6.9,22.7,8.0,25,0
+347,Queens,"MTA NYCT Q17 MTABus QM1, QM5, QM7, QM8, QM31, QM35 (188 Street/73rd Avenue)",Bus Station,40.2,30178.0,42.4,16.8,3.6,12.4,1,5
+348,Manhattan,Sweet Chef Southern Style Bakery,Bakery,38.4,22172.0,31.3,29.7,7.7,12.0,9,3
+349,Brooklyn,Wing Hua,Chinese Restaurant,35.9,68519.0,71.1,8.7,10.1,19.4,3,1
+350,Queens,Red Lotus Bakery And Cafe,Bakery,37.0,36960.0,44.7,14.5,4.6,18.1,5,3
+351,Queens,Baskin-Robbins,Ice Cream Shop,34.8,13313.0,35.8,25.2,23.4,7.5,0,3
+352,Queens,Maggie Mae's Bar,Bar,39.1,34488.0,38.6,24.3,7.5,9.8,90,2
+353,Bronx,The Bronx Beer Hall,Bar,40.8,13881.0,25.1,35.3,19.0,9.8,133,2
+354,Brooklyn,Joseph Dream Burger,Burger Joint,38.6,32624.0,41.7,12.1,6.6,28.8,1,1
+355,Brooklyn,Walter Sports,American Restaurant,31.6,62145.0,75.9,6.5,4.9,4.9,738,1
+356,Manhattan,Subway,Sandwich Place,38.7,17854.0,24.9,33.0,11.8,12.6,1,1
+357,Bronx,Spuyten Duyvil Shorefront Park,Park,37.6,70483.0,72.3,6.8,2.2,16.2,2,4
+358,Manhattan,Granny Annie’s Bar & Restaurant,American Restaurant,37.0,50463.0,73.6,6.4,5.1,16.7,3,1
+359,Bronx,Franks Original Pizza Italia,Pizza Place,48.3,24276.0,34.9,21.3,3.1,25.9,24,0
+360,Queens,Dunkin',Donut Shop,43.8,39540.0,50.7,14.0,2.6,18.7,13,3
+361,Manhattan,Zawa,Sushi Restaurant,25.5,121044.0,71.4,4.6,40.7,6.0,10,1
+362,Manhattan,El Porton,Mexican Restaurant,33.4,33953.0,63.3,12.4,19.6,12.5,43,1
+363,Queens,Kids 'N Shape,Gym / Fitness Center,37.2,40302.0,44.2,11.8,0.5,16.6,16,4
+364,Manhattan,The Capital Grille,American Restaurant,24.9,89303.0,71.9,3.0,27.8,5.9,252,1
+365,Bronx,Ray's Pizza Express,Pizza Place,46.3,57617.0,65.0,15.6,6.5,18.5,1,0
+366,Bronx,MTA New York City Bus - Bx27/Bx39 @ Clason Point,Bus Stop,43.0,22180.0,28.7,17.1,2.9,16.2,1,5
+367,Bronx,Estrellita Poblana V,Mexican Restaurant,41.9,31090.0,35.8,28.9,5.5,14.5,24,1
+368,Manhattan,Davey's Ice Cream,Ice Cream Shop,30.3,55645.0,66.3,13.4,21.6,8.3,593,3
+369,Queens,Plaza Express Deli & Grill,Deli / Bodega,32.4,32673.0,36.2,23.7,7.3,3.4,5,3
+370,Manhattan,Subway,Sandwich Place,38.4,22172.0,31.3,29.7,7.7,12.0,2,1
+371,Bronx,Artuso Pastry Shop,Bakery,39.5,10723.0,15.6,29.4,17.2,9.2,76,3
+372,Manhattan,Silver Moon Bakery,Bakery,37.2,71348.0,74.2,8.2,7.3,6.9,169,3
+373,Manhattan,Jimbo's Hamburger Palace,Burger Joint,41.5,21559.0,30.2,28.8,5.4,11.2,15,1
+374,Manhattan,5 Napkin Burger,Burger Joint,34.9,109141.0,70.2,2.9,31.1,3.9,95,1
+375,Manhattan,Little Luzzo's Pizza,Pizza Place,29.1,116699.0,75.6,8.3,15.3,8.5,26,0
+376,Queens,Joe's Pork Store,Italian Restaurant,35.8,33706.0,47.7,12.6,9.4,8.9,1,0
+377,Brooklyn,Carroll Park,Park,32.2,77933.0,67.5,7.8,11.2,6.7,121,4
+378,Queens,Paris Baguette,Bakery,41.3,33648.0,41.2,30.6,5.0,10.3,11,3
+379,Manhattan,El Diablito Taqueria,Mexican Restaurant,27.1,55379.0,67.8,7.2,20.2,6.9,141,1
+380,Brooklyn,Reedchy,Spa,36.0,63430.0,79.1,3.5,11.4,11.2,23,4
+381,Staten Island,Donut World,Donut Shop,40.2,33030.0,36.4,26.1,0.2,23.6,3,3
+382,Bronx,Joseph Scaglione Bakery,Bakery,34.5,24619.0,31.8,29.8,15.7,10.3,11,3
+383,Manhattan,Coppola's,Italian Restaurant,22.7,80750.0,69.7,5.5,23.9,4.6,41,0
+384,Manhattan,Rosemary's,Italian Restaurant,30.7,74869.0,82.0,5.4,28.5,7.5,7,0
+385,Bronx,Honey's Thai Pavilion,Thai Restaurant,42.3,25420.0,30.3,24.0,0.0,20.7,19,1
+386,Staten Island,Bagels By The Bay,Bagel Shop,43.2,34202.0,30.7,13.5,6.6,15.5,7,3
+387,Brooklyn,La Villa,Pizza Place,36.0,63430.0,79.1,3.5,11.4,11.2,42,0
+388,Manhattan,Hane Sushi,Sushi Restaurant,30.7,74869.0,82.0,5.4,28.5,7.5,157,1
+389,Bronx,Tino's Delicatessen,Italian Restaurant,40.8,13881.0,25.1,35.3,19.0,9.8,147,0
+390,Bronx,Kee Hing Restaurant,Chinese Restaurant,33.7,19260.0,23.6,38.4,9.3,23.3,2,1
+391,Brooklyn,Chase Bank,Bank,49.8,18133.0,18.0,37.8,5.2,22.1,8,5
+392,Manhattan,Chase Bank,Bank,40.7,11947.0,22.0,25.0,7.0,19.4,2,5
+393,Manhattan,Dulce Vida Latin Bistro,Latin American Restaurant,26.8,141682.0,79.0,1.7,11.6,2.9,122,1
+394,Manhattan,Aerial Arts NYC,Gym,24.6,120863.0,65.9,7.6,42.9,5.8,19,4
+395,Bronx,Big Deal Supermarket,Grocery Store,36.2,23930.0,38.4,16.5,17.1,11.0,24,3
+396,Manhattan,Shake Shack,Burger Joint,23.6,115333.0,75.1,3.8,35.9,6.2,1587,1
+397,Staten Island,Jac Mao,Chinese Restaurant,40.5,31408.0,35.4,23.7,5.0,17.0,11,1
+398,Brooklyn,Slope Fitness,Gym / Fitness Center,40.7,70579.0,75.6,3.9,5.0,12.4,25,4
+399,Queens,Vino by the Sea,Wine Shop,52.9,23979.0,33.8,25.5,2.1,19.7,1,3
+400,Queens,Alfie's Pizza,Pizza Place,46.8,24046.0,44.6,22.1,10.1,12.4,23,0
+401,Brooklyn,La Bicyclette Bakery,Bakery,33.6,51020.0,64.8,11.2,3.9,7.8,14,3
+402,Brooklyn,The Grocery,American Restaurant,32.2,77933.0,67.5,7.8,11.2,6.7,40,1
+403,Manhattan,Maestro Pasta,Italian Restaurant,23.7,77456.0,74.4,5.0,28.0,5.2,11,0
+404,Manhattan,Massage Envy,Spa,28.5,89203.0,67.6,11.1,33.0,4.2,9,4
+405,Staten Island,Rosebank Pizza,Pizza Place,40.5,28115.0,43.8,24.3,5.1,29.7,3,0
+406,Manhattan,Vine Tree,Café,40.8,25720.0,32.4,23.4,8.0,12.7,3,2
+407,Manhattan,Veritas Studio Wines,Wine Shop,28.5,89203.0,67.6,11.1,33.0,4.2,8,3
+408,Queens,Caffeina Espresso Bar,Café,28.9,74751.0,70.2,9.5,1.9,8.5,18,2
+409,Brooklyn,China tokyo brooklyn ny,Chinese Restaurant,43.2,40692.0,40.5,22.5,7.3,31.5,2,1
+410,Brooklyn,Gold Star Food,American Restaurant,55.1,16528.0,27.8,32.6,7.4,25.3,0,1
+411,Manhattan,Coffee Factory,Coffee Shop,36.2,16655.0,24.6,31.7,13.1,3.9,30,2
+412,Bronx,Blink Fitness,Gym,38.8,13290.0,19.5,40.5,10.1,15.2,1,4
+413,Manhattan,Luke's Lobster,Seafood Restaurant,26.1,111599.0,67.6,2.6,24.1,4.6,155,1
+414,Queens,Subway,Sandwich Place,42.9,20317.0,19.0,31.0,2.9,13.3,2,1
+415,Brooklyn,Bridge Coffee Shop,Café,32.9,100012.0,79.5,4.0,7.6,6.7,23,2
+416,Brooklyn,ChinaTokyo,Chinese Restaurant,43.2,40692.0,40.5,22.5,7.3,31.5,5,1
+417,Brooklyn,GoBo's,Café,37.0,19104.0,41.8,10.4,27.1,5.2,6,2
+418,Manhattan,Xi’an Famous Foods,Chinese Restaurant,25.7,136078.0,93.1,0.0,58.6,0.0,5,1
+419,Bronx,Rincon Ecuatoriano,Latin American Restaurant,45.4,17986.0,35.4,20.9,3.0,15.5,0,1
+420,Bronx,Pizza Hut,Pizza Place,48.4,18825.0,24.3,29.6,6.7,16.8,4,0
+421,Staten Island,Vincent's Pizzeria,Pizza Place,42.2,35567.0,38.8,13.4,2.3,18.3,0,0
+422,Queens,Casa Del Chef Bistro,American Restaurant,34.3,18147.0,26.4,21.0,12.6,6.2,26,1
+423,Manhattan,Silverstein Family Park,Park,23.6,115333.0,75.1,3.8,35.9,6.2,27,4
+424,Brooklyn,Take A Break & I’ll Bake Cafe & Creperie,Café,35.9,68519.0,71.1,8.7,10.1,19.4,6,2
+425,Manhattan,44 & X,American Restaurant,28.5,89203.0,67.6,11.1,33.0,4.2,114,1
+426,Queens,Recovery Room sports bar,Bar,39.7,16854.0,20.0,31.4,9.1,14.1,9,2
+427,Manhattan,Blink Fitness,Gym,41.9,31090.0,35.8,28.9,5.5,14.5,32,4
+428,Bronx,Clinton Hall,American Restaurant,39.5,10723.0,15.6,29.4,17.2,9.2,13,1
+429,Staten Island,Bocelli,Italian Restaurant,37.9,23240.0,39.5,12.1,1.2,25.1,35,0
+430,Manhattan,Ichiro,Japanese Restaurant,30.7,91861.0,75.7,3.4,12.7,6.1,104,1
+431,Bronx,Playground 52,Playground,42.1,11959.0,18.1,40.4,6.2,4.6,1,5
+432,Brooklyn,Alma,Mexican Restaurant,37.6,56582.0,66.3,6.0,5.5,13.3,97,1
+433,Queens,Vincenzo's pizza,Pizza Place,43.1,33256.0,54.9,13.5,3.6,13.3,5,0
+434,Manhattan,Lex Restaurant,Italian Restaurant,29.1,116699.0,75.6,8.3,15.3,8.5,18,0
+435,Bronx,Dunkin',Donut Shop,44.0,8911.0,15.2,46.4,7.1,14.0,9,3
+436,Queens,Bocconcini,Pizza Place,37.0,36960.0,44.7,14.5,4.6,18.1,2,0
+437,Manhattan,Oslo Coffee Roasters,Coffee Shop,26.8,82399.0,65.4,10.2,27.6,6.0,10,2
+438,Staten Island,Carvel,Ice Cream Shop,39.9,41245.0,44.6,23.8,5.3,22.6,6,3
+439,Bronx,MTA MaBSTOA Bus Bx22 / Bx39 / BxM10 At White Plains Road & Morris Park Avenue,Bus Station,46.8,22513.0,22.4,28.1,7.1,16.8,1,5
+440,Bronx,MTA Bus - Bx8,Bus Station,30.3,27362.0,61.1,12.0,38.0,11.2,0,5
+441,Brooklyn,Element Healing Arts,Yoga Studio,39.0,53699.0,81.6,2.3,8.4,8.5,27,4
+442,Manhattan,Pickler & Co.,Coffee Shop,29.9,91200.0,74.8,3.2,46.1,9.1,82,2
+443,Brooklyn,Bar Great Harry,Bar,32.2,77933.0,67.5,7.8,11.2,6.7,385,2
+444,Brooklyn,Cafe Gitane,Café,32.9,100012.0,79.5,4.0,7.6,6.7,12,2
+445,Bronx,Tony & Tina's Pizza,Pizza Place,34.3,12248.0,16.7,32.7,30.2,11.7,13,0
+446,Queens,Subway,Sandwich Place,50.8,22791.0,29.2,26.9,0.0,22.4,0,1
+447,Bronx,Grill 26 at TCR,American Restaurant,46.3,57617.0,65.0,15.6,6.5,18.5,1,1
+448,Manhattan,Num Pang Sandwich Shop,Sandwich Place,23.6,115333.0,75.1,3.8,35.9,6.2,46,1
+449,Brooklyn,Hungry Ghost,Coffee Shop,40.7,70579.0,75.6,3.9,5.0,12.4,20,2
+450,Brooklyn,Brooklyn Bridge Park - Main Street Section,Park,32.9,100012.0,79.5,4.0,7.6,6.7,5,4
+451,Manhattan,J.G. Melon,Burger Joint,26.0,172747.0,68.4,2.5,26.2,6.9,479,1
+452,Brooklyn,Coffee Project New York,Coffee Shop,28.5,69786.0,65.9,11.8,17.6,9.5,82,2
+453,Manhattan,Sant Ambroeus,Italian Restaurant,24.1,209894.0,75.2,3.3,24.6,1.3,132,0
+454,Manhattan,Geisha Japanese Cuisine,Japanese Restaurant,38.4,22172.0,31.3,29.7,7.7,12.0,35,1
+455,Manhattan,Land & Sea Restaurant,Seafood Restaurant,41.9,31090.0,35.8,28.9,5.5,14.5,42,1
+456,Manhattan,EVF Performance,Gym,33.9,101680.0,73.3,6.3,11.8,6.0,30,4
+457,Manhattan,Up Thai,Thai Restaurant,34.9,109141.0,70.2,2.9,31.1,3.9,236,1
+458,Bronx,Chase Bank,Bank,34.5,24619.0,31.8,29.8,15.7,10.3,9,5
+459,Queens,Chang Xin Foods Market Inc.,Grocery Store,33.9,26622.0,39.8,11.5,8.5,15.8,13,3
+460,Bronx,Primavera Pizzeria & Restaurant,Pizza Place,46.8,22513.0,22.4,28.1,7.1,16.8,8,0
+461,Manhattan,Mia Chef Gelateria,Ice Cream Shop,22.7,80750.0,69.7,5.5,23.9,4.6,24,3
+462,Bronx,Sugarboy Bakery Cafe,Bakery,36.5,14963.0,15.4,48.5,16.2,10.9,15,3
+463,Manhattan,Antonucci,Italian Restaurant,26.8,141682.0,79.0,1.7,11.6,2.9,42,0
+464,Manhattan,William Poll,American Restaurant,26.0,172747.0,68.4,2.5,26.2,6.9,11,1
+465,Manhattan,Ninth Street Espresso,Coffee Shop,33.8,24697.0,43.3,20.5,20.9,15.8,141,2
+466,Bronx,Dunkin',Donut Shop,43.1,18173.0,26.2,31.8,2.3,11.5,26,3
+467,Manhattan,Broadway Dive,Bar,31.4,71846.0,74.4,7.5,14.2,12.1,134,2
+468,Staten Island,Bolla Market,Deli / Bodega,41.0,21351.0,27.6,21.5,4.8,18.7,5,3
+469,Manhattan,Stella & Fly,Coffee Shop,33.9,101680.0,73.3,6.3,11.8,6.0,29,2
+470,Queens,Carosello,American Restaurant,37.2,40302.0,44.2,11.8,0.5,16.6,0,1
+471,Bronx,Dunkin',Donut Shop,46.8,22513.0,22.4,28.1,7.1,16.8,30,3
+472,Manhattan,Peaky Barista,Coffee Shop,31.4,71846.0,74.4,7.5,14.2,12.1,5,2
+473,Queens,Jamaica Park,Park,46.3,18926.0,20.2,38.8,4.4,22.9,2,4
+474,Queens,Locals Collective NYC,Coffee Shop,52.9,23979.0,33.8,25.5,2.1,19.7,14,2
+475,Manhattan,Soulcycle Outdoors Tribeca Rooftop,Gym / Fitness Center,24.5,117725.0,72.2,4.8,19.6,1.6,0,4
+476,Manhattan,Ottomanelli Brothers,Deli / Bodega,31.5,97580.0,67.6,4.0,12.0,4.7,47,3
+477,Manhattan,Manero’s Pizza,Pizza Place,24.9,53593.0,50.2,15.7,33.6,6.0,13,0
+478,Manhattan,Ben & Jerry's,Ice Cream Shop,35.7,30439.0,55.1,26.3,12.1,11.9,73,3
+479,Brooklyn,Caterina Pizza,Pizza Place,58.1,13030.0,15.6,55.9,1.5,13.7,7,0
+480,Manhattan,La Cocinita Latina,Latin American Restaurant,35.6,33640.0,50.4,25.6,7.5,9.1,7,1
+481,Staten Island,Dunkin',Donut Shop,37.9,23240.0,39.5,12.1,1.2,25.1,20,3
+482,Staten Island,Woodrow Diner,Diner,42.2,35567.0,38.8,13.4,2.3,18.3,24,1
+483,Queens,Pizza Boy 2,Pizza Place,36.2,26473.0,31.9,28.3,2.3,3.5,23,0
+484,Manhattan,Maialino,Italian Restaurant,23.6,106434.0,73.8,6.2,24.7,4.2,1449,0
+485,Brooklyn,China Garden,Chinese Restaurant,43.6,16396.0,17.7,29.9,10.8,10.7,2,1
+486,Brooklyn,Bareburger,Burger Joint,40.7,70579.0,75.6,3.9,5.0,12.4,309,1
+487,Brooklyn,The Rockwell Place,Bar,28.5,69786.0,65.9,11.8,17.6,9.5,13,2
+488,Manhattan,787 Coffee,Coffee Shop,30.8,58068.0,63.8,6.6,20.4,6.0,28,2
+489,Queens,Walgreens,Pharmacy,37.2,40302.0,44.2,11.8,0.5,16.6,0,3
+490,Manhattan,Arturo's,Pizza Place,38.7,17854.0,24.9,33.0,11.8,12.6,16,0
+491,Brooklyn,Baskin-Robbins,Ice Cream Shop,37.4,40535.0,66.5,11.7,8.9,12.0,0,3
+492,Manhattan,Bottle & Soul,Wine Shop,26.8,141682.0,79.0,1.7,11.6,2.9,15,3
+493,Brooklyn,Brooklyn Fare,Grocery Store,33.3,60451.0,69.0,11.1,6.7,9.9,433,3
+494,Staten Island,A & C Superette,Deli / Bodega,40.2,33030.0,36.4,26.1,0.2,23.6,31,3
+495,Brooklyn,Jay & J Nail,Spa,32.9,100012.0,79.5,4.0,7.6,6.7,9,4
+496,Manhattan,Brooklyn Fare,Supermarket,31.1,74370.0,66.4,14.3,35.5,4.6,218,3
+497,Brooklyn,Ample Hills Creamery,Ice Cream Shop,33.5,50871.0,62.6,11.5,9.7,11.2,51,3
+498,Manhattan,Wine Therapy,Wine Shop,27.8,68346.0,66.9,6.5,12.0,6.0,48,3
+499,Queens,Bon Bon Bakery,Bakery,43.0,27515.0,26.6,19.5,2.8,15.2,2,3
+500,Brooklyn,FEED Shop & Cafe,Coffee Shop,32.9,100012.0,79.5,4.0,7.6,6.7,75,2
+501,Staten Island,MTA Bus - Morningstar Rd & Forest Av (S44/S48/S89/S94/S98/X30),Bus Stop,42.4,19980.0,28.9,38.0,1.7,17.4,0,5
+502,Bronx,Golden Pizza,Pizza Place,42.9,14559.0,9.3,43.8,6.5,3.4,9,0
+503,Manhattan,Bikini Bar Sip n' Surf,Café,28.3,142738.0,70.2,4.1,20.6,9.5,8,2
+504,Bronx,Capital One Bank,Bank,31.8,35402.0,50.0,21.5,16.9,23.7,0,5
+505,Manhattan,Maiden Lane,Bar,33.8,24697.0,43.3,20.5,20.9,15.8,185,2
+506,Queens,Tacombi,Mexican Restaurant,28.9,74751.0,70.2,9.5,1.9,8.5,0,1
+507,Brooklyn,Colonie,American Restaurant,32.4,92429.0,76.3,5.7,13.1,10.4,275,1
+508,Bronx,Chase Bank,Bank,40.6,24622.0,33.9,16.8,5.2,20.5,2,5
+509,Staten Island,Subway,Sandwich Place,34.8,40747.0,49.5,15.8,2.1,30.1,3,1
+510,Manhattan,Rise By We,Gym / Fitness Center,26.1,111599.0,67.6,2.6,24.1,4.6,15,4
+511,Queens,Hair Village & Spa,Spa,34.3,18147.0,26.4,21.0,12.6,6.2,9,4
+512,Manhattan,The Carlyle,Hotel,21.2,195800.0,79.6,4.6,22.2,7.1,63,4
+513,Staten Island,Dolphin Fitness Club,Gym / Fitness Center,41.2,34085.0,49.7,14.3,1.6,21.3,7,4
+514,Brooklyn,Bohemien,Cocktail Bar,37.6,56582.0,66.3,6.0,5.5,13.3,5,2
+515,Brooklyn,F&F Pizzeria,Pizza Place,35.9,68519.0,71.1,8.7,10.1,19.4,100,0
+516,Bronx,Sabrosura,Latin American Restaurant,48.4,18825.0,24.3,29.6,6.7,16.8,67,1
+517,Bronx,Perry Coffee Shop.,Diner,43.8,20805.0,21.2,37.0,10.1,8.9,8,1
+518,Brooklyn,Krok,Thai Restaurant,37.6,56582.0,66.3,6.0,5.5,13.3,9,1
+519,Manhattan,Loui Loui Louisiana Seafood,Seafood Restaurant,33.4,33953.0,63.3,12.4,19.6,12.5,10,1
+520,Queens,Packard Cafe & Grill,Café,32.4,32673.0,36.2,23.7,7.3,3.4,31,2
+521,Queens,Starbucks,Coffee Shop,34.8,13313.0,35.8,25.2,23.4,7.5,10,2
+522,Queens,Levante,Pizza Place,28.9,74751.0,70.2,9.5,1.9,8.5,86,0
+523,Bronx,White Castle,Fast Food Restaurant,44.5,14050.0,16.1,39.0,7.5,15.2,16,1
+524,Bronx,Pizza,Pizza Place,39.7,12459.0,22.0,31.4,10.6,13.4,0,0
+525,Manhattan,The George Washington Bar,Cocktail Bar,22.7,80750.0,69.7,5.5,23.9,4.6,137,2
+526,Queens,Slim's Bagels & Bialy's,Bagel Shop,44.7,29973.0,43.7,12.4,2.3,14.0,16,3
+527,Manhattan,Parma Restaurant,Italian Restaurant,27.0,95574.0,72.6,5.5,22.9,7.7,14,0
+528,Queens,Farm Playground,Playground,40.2,30178.0,42.4,16.8,3.6,12.4,0,5
+529,Manhattan,Elio's,Italian Restaurant,31.3,91351.0,61.2,9.1,12.3,5.8,121,0
+530,Staten Island,Baci,Italian Restaurant,43.0,48817.0,41.4,9.6,0.7,15.3,2,0
+531,Bronx,M.T.A. ZEREGA AVENUE TRAINING FACILITY,Bus Station,43.8,19161.0,31.0,24.9,4.8,17.6,0,5
+532,Manhattan,Tudor City Park South,Park,29.9,91200.0,74.8,3.2,46.1,9.1,38,4
+533,Queens,Ida's Nearabout,Bar,39.1,34488.0,38.6,24.3,7.5,9.8,39,2
+534,Manhattan,La Pecora Bianca,Italian Restaurant,24.6,120863.0,65.9,7.6,42.9,5.8,41,0
+535,Brooklyn,Bonafide Deli & Cafe,Deli / Bodega,34.6,67878.0,81.5,5.4,14.9,15.5,26,3
+536,Manhattan,Whole Foods Market,Grocery Store,35.8,66085.0,75.7,3.1,5.5,11.8,635,3
+537,Manhattan,THEP Thai Restaurant,Thai Restaurant,27.0,95574.0,72.6,5.5,22.9,7.7,35,1
+538,Manhattan,Lobby Bar at the Ludlow,Cocktail Bar,28.8,60670.0,65.1,15.3,22.4,3.1,95,2
+539,Brooklyn,Seatide,Seafood Restaurant,43.2,40692.0,40.5,22.5,7.3,31.5,3,1
+540,Bronx,Sam's Pizza,Pizza Place,41.9,31090.0,35.8,28.9,5.5,14.5,29,0
+541,Bronx,Gerbasi Ristorante,Italian Restaurant,40.8,13881.0,25.1,35.3,19.0,9.8,15,0
+542,Bronx,Rite Aid,Pharmacy,44.5,14050.0,16.1,39.0,7.5,15.2,13,3
+543,Bronx,Simon's Deli & Bagels,Deli / Bodega,34.3,12248.0,16.7,32.7,30.2,11.7,25,3
+544,Manhattan,Bode NYC - Upper East Side,Yoga Studio,26.8,141682.0,79.0,1.7,11.6,2.9,71,4
+545,Manhattan,Capital One Bank,Bank,35.6,33640.0,50.4,25.6,7.5,9.1,2,5
+546,Staten Island,Trattoria Romana,Italian Restaurant,37.7,22573.0,37.5,17.0,7.3,16.3,62,0
+547,Manhattan,Whole Foods Market,Grocery Store,19.9,85826.0,74.8,3.6,47.7,1.6,216,3
+548,Queens,"MTA Buses - Q1, 2, 3, 17, 36, 43, 76, 77",Bus Station,47.1,14468.0,17.8,30.5,10.3,11.2,2,5
+549,Queens,McDonald's,Fast Food Restaurant,37.2,40302.0,44.2,11.8,0.5,16.6,26,1
+550,Brooklyn,Brooklyn Wines & Liquors,Wine Shop,45.9,24912.0,30.5,26.7,6.7,30.0,0,3
+551,Bronx,Venezia Pizzeria,Pizza Place,39.8,23382.0,42.3,12.6,6.2,12.3,10,0
+552,Queens,Deli & Grocery,Deli / Bodega,37.0,36960.0,44.7,14.5,4.6,18.1,0,3
+553,Manhattan,Manna House Bakery,Bakery,24.9,53593.0,50.2,15.7,33.6,6.0,17,3
+554,Queens,Subway,Sandwich Place,42.4,20003.0,26.1,26.3,6.0,8.3,0,1
+555,Manhattan,San Matteo Pizza Espresso Bar,Pizza Place,37.9,56872.0,65.7,7.5,14.5,7.4,299,0
+556,Manhattan,Reflections Center for Conscious Living & Yoga,Yoga Studio,22.7,80750.0,69.7,5.5,23.9,4.6,45,4
+557,Staten Island,Da Noi Fingerboard,Italian Restaurant,35.3,46678.0,43.1,15.0,0.8,30.1,20,0
+558,Manhattan,Structure Personal Fitness,Gym / Fitness Center,26.0,172747.0,68.4,2.5,26.2,6.9,17,4
+559,Bronx,Subway,Sandwich Place,41.9,31090.0,35.8,28.9,5.5,14.5,3,1
+560,Staten Island,Rite Aid,Pharmacy,50.5,29462.0,38.7,25.3,2.3,26.4,12,3
+561,Brooklyn,1982 Coffee Roasters,Coffee Shop,37.0,19104.0,41.8,10.4,27.1,5.2,12,2
+562,Brooklyn,Express Deli,Deli / Bodega,43.5,12587.0,18.0,34.7,12.7,18.4,1,3
+563,Queens,Kings Park,Park,46.3,18926.0,20.2,38.8,4.4,22.9,1,4
+564,Manhattan,Grill 26 at TCR,American Restaurant,46.3,57617.0,65.0,15.6,6.5,18.5,1,1
+565,Queens,Dunkin',Donut Shop,42.4,20003.0,26.1,26.3,6.0,8.3,4,3
+566,Staten Island,Panini Grill,Italian Restaurant,34.8,40747.0,49.5,15.8,2.1,30.1,22,0
+567,Manhattan,West Street Wine & Spirits,Wine Shop,22.8,93787.0,75.2,2.5,27.6,5.6,12,3
+568,Manhattan,Fuji East,Japanese Restaurant,37.0,50463.0,73.6,6.4,5.1,16.7,24,1
+569,Bronx,Fine Fare,Supermarket,46.2,12513.0,17.3,42.9,14.6,13.1,4,3
+570,Bronx,La Casa Del Caffe,Coffee Shop,36.2,23930.0,38.4,16.5,17.1,11.0,16,2
+571,Staten Island,Don Cesar Mexican,Mexican Restaurant,44.6,32292.0,44.2,15.8,0.1,29.3,3,1
+572,Brooklyn,Rosa’s Pizza,Pizza Place,31.6,62145.0,75.9,6.5,4.9,4.9,14,0
+573,Manhattan,K&D Wines & Spirits,Wine Shop,24.1,78935.0,71.2,9.9,33.4,3.1,32,3
+574,Manhattan,Tudor City Park North,Park,29.9,91200.0,74.8,3.2,46.1,9.1,118,4
+575,Staten Island,Royal Crown Bakery,Bakery,43.2,32481.0,46.7,13.9,2.9,15.9,187,3
+576,Brooklyn,Lechonera Resurant,Latin American Restaurant,58.1,13030.0,15.6,55.9,1.5,13.7,0,1
+577,Brooklyn,Xixa,Latin American Restaurant,33.2,28717.0,42.0,19.9,9.0,7.9,129,1
+578,Queens,Rite Aid,Pharmacy,37.2,40302.0,44.2,11.8,0.5,16.6,14,3
+579,Queens,Duane Reade,Pharmacy,36.2,26473.0,31.9,28.3,2.3,3.5,5,3
+580,Manhattan,Andaz 5th Avenue - a concept by Hyatt,Hotel,19.9,85826.0,74.8,3.6,47.7,1.6,255,4
+581,Manhattan,ChaiseFitness,Gym,29.1,116699.0,75.6,8.3,15.3,8.5,22,4
+582,Bronx,PR SAZON,Latin American Restaurant,38.7,31134.0,34.6,20.7,1.7,21.3,4,1
+583,Manhattan,Manhattan Park Gym,Gym,39.9,39679.0,80.9,4.1,7.7,19.1,4,4
+584,Queens,Amina Thai,Thai Restaurant,47.1,14468.0,17.8,30.5,10.3,11.2,12,1
+585,Brooklyn,Tower Isle Patties,Bakery,44.9,19021.0,18.7,40.6,5.9,33.4,12,3
+586,Queens,Uncle Jimmy's Pizzeria,Pizza Place,38.2,32920.0,44.1,17.6,3.9,10.1,11,0
+587,Manhattan,Chopped Parsley,Sushi Restaurant,41.5,21559.0,30.2,28.8,5.4,11.2,11,1
+588,Bronx,McDonald's,Fast Food Restaurant,40.1,11783.0,16.5,34.1,23.3,6.7,9,1
+589,Brooklyn,M Spa,Spa,37.1,25254.0,35.0,24.8,11.4,13.6,0,4
+590,Brooklyn,Nate's Pharmacy,Pharmacy,32.9,100012.0,79.5,4.0,7.6,6.7,0,3
+591,Manhattan,Life Time Sky,Gym,26.8,82399.0,65.4,10.2,27.6,6.0,51,4
+592,Bronx,SUBWAY,Sandwich Place,37.8,29807.0,34.4,24.7,8.4,19.2,2,1
+593,Brooklyn,Hardee,Chinese Restaurant,40.9,17753.0,30.1,30.0,12.0,19.8,16,1
+594,Brooklyn,Ugly Baby,Thai Restaurant,35.9,68519.0,71.1,8.7,10.1,19.4,120,1
+595,Manhattan,Shorty's,Sandwich Place,25.8,54804.0,66.0,10.6,42.1,4.4,96,1
+596,Brooklyn,Vinegar Hill House,American Restaurant,32.9,100012.0,79.5,4.0,7.6,6.7,726,1
+597,Queens,MTA Q17 (188th & 73rd),Bus Station,40.2,30178.0,42.4,16.8,3.6,12.4,0,5
+598,Staten Island,Key Food Market Place,Supermarket,39.9,41245.0,44.6,23.8,5.3,22.6,15,3
+599,Manhattan,Han Joo,Korean Restaurant,36.2,16655.0,24.6,31.7,13.1,3.9,28,1
+600,Manhattan,Vintry Fine Wines,Wine Shop,23.6,115333.0,75.1,3.8,35.9,6.2,27,3
+601,Staten Island,Wendy’s,Fast Food Restaurant,37.7,22573.0,37.5,17.0,7.3,16.3,26,1
+602,Bronx,SUBWAY / Convenient Store,Sandwich Place,42.7,28686.0,31.4,30.5,1.6,22.0,0,1
+603,Brooklyn,Bklyn Habit,Coffee Shop,35.9,68519.0,71.1,8.7,10.1,19.4,51,2
+604,Queens,Cuisine By Claudette,Café,52.9,23979.0,33.8,25.5,2.1,19.7,2,2
+605,Staten Island,Capital One Bank,Bank,39.9,41245.0,44.6,23.8,5.3,22.6,1,5
+606,Brooklyn,St. Mazie,Cocktail Bar,31.6,62145.0,75.9,6.5,4.9,4.9,789,2
+607,Brooklyn,Water Shed,Bar,35.9,68519.0,71.1,8.7,10.1,19.4,13,2
+608,Brooklyn,Mega 53,Grocery Store,37.0,19104.0,41.8,10.4,27.1,5.2,1,3
+609,Manhattan,Broadway Diner,Diner,31.4,71846.0,74.4,7.5,14.2,12.1,11,1
+610,Bronx,McDonald's,Fast Food Restaurant,40.2,13724.0,20.3,27.9,8.3,12.1,2,1
+611,Queens,Empire Garden,Chinese Restaurant,43.8,39540.0,50.7,14.0,2.6,18.7,7,1
+612,Bronx,iLoveKickboxing,Gym,38.7,31134.0,34.6,20.7,1.7,21.3,19,4
+613,Queens,Happy Garden Restaurant,Chinese Restaurant,42.5,18693.0,23.9,28.4,7.3,5.0,1,1
+614,Staten Island,Subway,Sandwich Place,40.5,31408.0,35.4,23.7,5.0,17.0,4,1
+615,Manhattan,Crunch - FiDi,Gym / Fitness Center,24.9,89303.0,71.9,3.0,27.8,5.9,21,4
+616,Manhattan,Van Leeuwen Artisan Ice Cream,Ice Cream Shop,28.8,60670.0,65.1,15.3,22.4,3.1,68,3
+617,Manhattan,TITLE Boxing Club NYC - Midtown West,Gym / Fitness Center,26.0,131432.0,70.8,5.5,36.4,1.7,93,4
+618,Brooklyn,Almah Coffee,Coffee Shop,43.6,16396.0,17.7,29.9,10.8,10.7,3,2
+619,Manhattan,83 1/2,Italian Restaurant,32.2,98530.0,73.8,6.9,15.5,8.3,20,0
+620,Brooklyn,Time Out Bar,Bar,32.9,100012.0,79.5,4.0,7.6,6.7,17,2
+621,Manhattan,dell’anima,Italian Restaurant,28.5,89203.0,67.6,11.1,33.0,4.2,5,0
+622,Bronx,Papa Chu Deli and Grocery,Grocery Store,48.5,13846.0,26.3,32.0,7.2,24.2,0,3
+623,Brooklyn,Red Hook Lobster Pound,Seafood Restaurant,40.7,34346.0,48.7,17.7,13.7,4.6,525,1
+624,Manhattan,Cafe de Cupping,Coffee Shop,40.8,25720.0,32.4,23.4,8.0,12.7,74,2
+625,Staten Island,Stewart's All American Grill,American Restaurant,42.2,35567.0,38.8,13.4,2.3,18.3,1,1
+626,Bronx,Capital One Bank,Bank,42.3,25420.0,30.3,24.0,0.0,20.7,1,5
+627,Manhattan,Paradise Alley,Bar,36.2,16655.0,24.6,31.7,13.1,3.9,10,2
+628,Queens,Lenny's Clam Bar,Seafood Restaurant,37.2,40302.0,44.2,11.8,0.5,16.6,134,1
+629,Manhattan,Gyu-Kaku Japanese BBQ,Japanese Restaurant,24.6,120863.0,65.9,7.6,42.9,5.8,485,1
+630,Manhattan,Dunkin',Donut Shop,41.9,31090.0,35.8,28.9,5.5,14.5,68,3
+631,Manhattan,Inase Sushi,Japanese Restaurant,31.5,97580.0,67.6,4.0,12.0,4.7,17,1
+632,Manhattan,El Puerto Seafood and Fish Market,Seafood Restaurant,40.7,11947.0,22.0,25.0,7.0,19.4,58,1
+633,Bronx,Bill Rainey Park,Park,44.5,14050.0,16.1,39.0,7.5,15.2,2,4
+634,Manhattan,The Fhitting Room Penthouse,Gym,24.5,138832.0,81.7,5.1,34.2,2.9,20,4
+635,Brooklyn,CVS pharmacy,Pharmacy,60.3,28869.0,38.0,29.7,1.8,26.1,34,3
+636,Queens,Little Caesars Pizza,Pizza Place,36.2,26473.0,31.9,28.3,2.3,3.5,1,0
+637,Manhattan,Sodam,Korean Restaurant,38.1,20375.0,33.0,28.8,7.3,9.8,10,1
+638,Bronx,Pete's Cafe,Diner,34.3,12248.0,16.7,32.7,30.2,11.7,10,1
+639,Bronx,Chase Bank,Bank,42.3,25420.0,30.3,24.0,0.0,20.7,1,5
+640,Brooklyn,Mermaid Spa,Spa,46.3,28423.0,43.1,25.0,5.1,11.4,39,4
+641,Manhattan,New York Marriott Downtown,Hotel,22.8,93787.0,75.2,2.5,27.6,5.6,150,4
+642,Queens,Aubergine Cafe,Café,38.2,32920.0,44.1,17.6,3.9,10.1,116,2
+643,Manhattan,Uchu,Sushi Restaurant,28.8,60670.0,65.1,15.3,22.4,3.1,32,1
+644,Queens,Pollos a La Brasa Mario,Latin American Restaurant,36.2,26473.0,31.9,28.3,2.3,3.5,13,1
+645,Manhattan,Park Italian Gourmet,Deli / Bodega,25.7,136078.0,93.1,0.0,58.6,0.0,61,3
+646,Bronx,Captain's Pizza,Pizza Place,36.2,23930.0,38.4,16.5,17.1,11.0,3,0
+647,Brooklyn,JPan Sushi,Sushi Restaurant,36.0,63430.0,79.1,3.5,11.4,11.2,20,1
+648,Queens,Fresh Meadows Pizzeria and Restaurant,Pizza Place,40.2,30178.0,42.4,16.8,3.6,12.4,14,0
+649,Bronx,Story Playground,Playground,48.5,13846.0,26.3,32.0,7.2,24.2,1,5
+650,Staten Island,La Dolce Bakery & Pastry Shoppe,Bakery,42.2,35567.0,38.8,13.4,2.3,18.3,7,3
+651,Manhattan,Ooki Sushi,Sushi Restaurant,31.1,100936.0,69.4,5.5,11.3,8.2,51,1
+652,Manhattan,La Colombe Torrefaction,Coffee Shop,19.9,85826.0,74.8,3.6,47.7,1.6,95,2
+653,Manhattan,The Smith,American Restaurant,24.6,120863.0,65.9,7.6,42.9,5.8,597,1
+654,Manhattan,Olga's Pizza,Pizza Place,38.6,17791.0,35.7,30.9,5.8,15.4,21,0
+655,Brooklyn,Noods n’ Chill,Thai Restaurant,33.2,28717.0,42.0,19.9,9.0,7.9,30,1
+656,Queens,Inplayables,Gym / Fitness Center,49.6,30282.0,35.9,17.9,1.4,26.0,0,4
+657,Manhattan,Underdog,Cocktail Bar,26.1,111599.0,67.6,2.6,24.1,4.6,115,2
+658,Manhattan,Exceed Physical Culture,Gym / Fitness Center,28.3,142738.0,70.2,4.1,20.6,9.5,91,4
+659,Bronx,Great Wall Chinese Restaurant,Chinese Restaurant,37.8,29807.0,34.4,24.7,8.4,19.2,2,1
+660,Manhattan,Checkers,Fast Food Restaurant,35.6,33640.0,50.4,25.6,7.5,9.1,21,1
+661,Brooklyn,Mr. Piña Fruit and Vegetables,Grocery Store,27.5,16314.0,43.5,13.8,24.5,7.5,166,3
+662,Bronx,Smashburger,Burger Joint,38.2,15903.0,22.4,32.9,14.1,20.6,51,1
+663,Brooklyn,Landi's Pork Store,Italian Restaurant,43.2,40692.0,40.5,22.5,7.3,31.5,33,0
+664,Bronx,Dunkin',Donut Shop,40.1,11783.0,16.5,34.1,23.3,6.7,0,3
+665,Manhattan,Takahachi,Sushi Restaurant,28.3,142738.0,70.2,4.1,20.6,9.5,319,1
+666,Manhattan,Farinella Bakery,Pizza Place,26.8,141682.0,79.0,1.7,11.6,2.9,58,0
+667,Staten Island,Lee's Tavern,Pizza Place,40.5,31408.0,35.4,23.7,5.0,17.0,120,0
+668,Manhattan,La Esquina,Mexican Restaurant,24.1,118156.0,65.7,2.7,16.3,1.4,741,1
+669,Brooklyn,Bagel Pub,Bagel Shop,34.3,84012.0,80.8,11.1,10.6,12.9,8,3
+670,Brooklyn,Court Street Grocers Hero Shop,Sandwich Place,38.2,39277.0,48.5,22.2,12.7,7.7,36,1
+671,Manhattan,Punjabi Grocery & Deli,Deli / Bodega,28.8,60670.0,65.1,15.3,22.4,3.1,263,3
+672,Manhattan,Blue Park Kitchen,American Restaurant,24.9,89303.0,71.9,3.0,27.8,5.9,17,1
+673,Staten Island,Island Garden,Chinese Restaurant,40.5,28115.0,43.8,24.3,5.1,29.7,3,1
+674,Bronx,MTA MaBSTOA Bus - Bx4 / Bx4A / Bx6 at 163rd Street & Westchester Avenue,Bus Station,44.5,14050.0,16.1,39.0,7.5,15.2,0,5
+675,Queens,Carvel Ice Cream,Ice Cream Shop,36.2,26473.0,31.9,28.3,2.3,3.5,3,3
+676,Manhattan,Michelle's Bench,Park,37.0,50463.0,73.6,6.4,5.1,16.7,0,4
+677,Manhattan,Pietro's,Italian Restaurant,29.9,91200.0,74.8,3.2,46.1,9.1,40,0
+678,Bronx,Green Olive Deli & Grill,Deli / Bodega,46.8,22513.0,22.4,28.1,7.1,16.8,1,3
+679,Staten Island,Van Duzer Deli,Deli / Bodega,46.9,35375.0,45.8,19.7,16.1,13.0,0,3
+680,Manhattan,Levain Bakery,Bakery,31.3,91351.0,61.2,9.1,12.3,5.8,32,3
+681,Staten Island,Pino's Pizzeria,Pizza Place,42.2,35567.0,38.8,13.4,2.3,18.3,5,0
+682,Brooklyn,Dry Dock Wine & Spirits,Wine Shop,38.2,39277.0,48.5,22.2,12.7,7.7,55,3
+683,Bronx,CTown Supermarkets,Grocery Store,41.0,14801.0,20.1,37.6,3.5,6.3,3,3
+684,Manhattan,Maman,Café,24.9,53593.0,50.2,15.7,33.6,6.0,358,2
+685,Brooklyn,Buttermilk Channel,American Restaurant,35.9,68519.0,71.1,8.7,10.1,19.4,933,1
+686,Manhattan,Brahman Yoga Studio,Yoga Studio,41.5,21559.0,30.2,28.8,5.4,11.2,20,4
+687,Brooklyn,Café Regular du Nord,Coffee Shop,40.7,70579.0,75.6,3.9,5.0,12.4,300,2
+688,Bronx,Chase Bank,Bank,48.3,24276.0,34.9,21.3,3.1,25.9,6,5
+689,Queens,Chase Bank,Bank,35.6,18633.0,16.0,38.4,8.9,7.4,1,5
+690,Brooklyn,Mitoushi Sushi,Japanese Restaurant,32.4,92429.0,76.3,5.7,13.1,10.4,48,1
+691,Bronx,Baskin-Robbins,Ice Cream Shop,40.3,13599.0,8.1,44.8,7.0,10.9,1,3
+692,Queens,Sik Gaek,Korean Restaurant,35.6,18633.0,16.0,38.4,8.9,7.4,79,1
+693,Bronx,CTown Supermarkets,Grocery Store,43.8,20805.0,21.2,37.0,10.1,8.9,2,3
+694,Brooklyn,White Maize,Latin American Restaurant,34.6,82970.0,77.1,2.1,7.7,9.0,45,1
+695,Manhattan,THAIs New York,Thai Restaurant,37.9,56872.0,65.7,7.5,14.5,7.4,31,1
+696,Manhattan,Yi Ji Shi Mo Noodle Corp,Chinese Restaurant,29.4,28519.0,47.3,18.0,29.3,8.1,30,1
+697,Manhattan,Vinyl Wine,Wine Shop,29.1,116699.0,75.6,8.3,15.3,8.5,17,3
+698,Manhattan,Tompkins Square Bagels,Bagel Shop,30.0,59917.0,69.2,9.4,25.5,4.9,1088,3
+699,Manhattan,City Hall Park,Park,22.5,80454.0,67.8,6.9,32.0,10.8,384,4
+700,Staten Island,MTA Bus - Victory Bl & Van Duzer St (S46/S48/S61/S62/S66/S92),Bus Stop,46.9,35375.0,45.8,19.7,16.1,13.0,0,5
+701,Queens,Rite Aid,Pharmacy,42.9,14631.0,20.3,28.5,10.7,10.1,13,3
+702,Manhattan,Black Label Salon 25,Spa,26.1,111599.0,67.6,2.6,24.1,4.6,7,4
+703,Brooklyn,Popina,Italian Restaurant,37.6,56582.0,66.3,6.0,5.5,13.3,23,0
+704,Manhattan,The Surrey,Hotel,21.2,195800.0,79.6,4.6,22.2,7.1,65,4
+705,Manhattan,DTUT,Coffee Shop,37.9,56872.0,65.7,7.5,14.5,7.4,521,2
+706,Manhattan,Skin Laundry TriBeCa,Spa,28.3,142738.0,70.2,4.1,20.6,9.5,14,4
+707,Bronx,Subway,Sandwich Place,44.5,14050.0,16.1,39.0,7.5,15.2,2,1
+708,Brooklyn,Empire-Fulton Ferry State Park,Park,32.9,100012.0,79.5,4.0,7.6,6.7,42,4
+709,Manhattan,Massage Envy - Gramercy NYC,Spa,25.0,78800.0,67.7,9.1,27.0,4.1,14,4
+710,Bronx,Sake II,Japanese Restaurant,39.5,10723.0,15.6,29.4,17.2,9.2,7,1
+711,Brooklyn,Mex Carroll's Diner,Diner,37.6,56582.0,66.3,6.0,5.5,13.3,6,1
+712,Staten Island,Dunkin',Donut Shop,42.2,35567.0,38.8,13.4,2.3,18.3,12,3
+713,Staten Island,Krispy Pizza,Pizza Place,40.2,33030.0,36.4,26.1,0.2,23.6,5,0
+714,Staten Island,Mignosi's Supermarket,Grocery Store,42.2,35567.0,38.8,13.4,2.3,18.3,14,3
+715,Bronx,Domino's Pizza,Pizza Place,44.4,18245.0,26.7,23.4,9.4,19.8,0,0
+716,Manhattan,Kappo Masa,Japanese Restaurant,21.2,195800.0,79.6,4.6,22.2,7.1,12,1
+717,Bronx,Sabor Latino Seafood Restaurant,Chinese Restaurant,43.1,18173.0,26.2,31.8,2.3,11.5,5,1
+718,Queens,Han Ah Reum Asian Mart,Grocery Store,36.2,26473.0,31.9,28.3,2.3,3.5,18,3
+719,Brooklyn,Bozu,Sushi Restaurant,31.6,62145.0,75.9,6.5,4.9,4.9,508,1
+720,Staten Island,Danny Blaines,Bar,40.5,28115.0,43.8,24.3,5.1,29.7,8,2
+721,Staten Island,The Veranda Cafe,American Restaurant,45.9,46169.0,49.3,19.5,3.5,27.5,4,1
+722,Bronx,MTA Bus - Bx17 - Prospect Avenue & East 166th Street,Bus Stop,42.8,12742.0,18.2,31.4,6.0,9.2,3,5
+723,Manhattan,Sugar Hill Cafe,Café,35.6,33640.0,50.4,25.6,7.5,9.1,80,2
+724,Manhattan,Jongro BBQ,Korean Restaurant,38.1,20375.0,33.0,28.8,7.3,9.8,51,1
+725,Manhattan,Physique 57,Gym / Fitness Center,22.8,93787.0,75.2,2.5,27.6,5.6,50,4
+726,Bronx,Planet Fitness,Gym / Fitness Center,33.8,28097.0,42.0,16.6,2.4,21.7,78,4
+727,Manhattan,Locanda Verde,Italian Restaurant,28.3,142738.0,70.2,4.1,20.6,9.5,508,0
+728,Queens,Rite Aid,Pharmacy,49.6,30282.0,35.9,17.9,1.4,26.0,10,3
+729,Staten Island,The Bagel Bin,Bagel Shop,39.9,41245.0,44.6,23.8,5.3,22.6,13,3
+730,Bronx,Dunkin',Donut Shop,37.8,29807.0,34.4,24.7,8.4,19.2,6,3
+731,Manhattan,Crave Fishbar,Seafood Restaurant,24.6,120863.0,65.9,7.6,42.9,5.8,356,1
+732,Brooklyn,Brooklyn Pizza Market,Pizza Place,34.6,82970.0,77.1,2.1,7.7,9.0,16,0
+733,Queens,Philomena's,Pizza Place,39.1,34488.0,38.6,24.3,7.5,9.8,6,0
+734,Queens,The Burger Garage,Burger Joint,28.9,74751.0,70.2,9.5,1.9,8.5,151,1
+735,Brooklyn,Almondine Bakery,Bakery,32.9,100012.0,79.5,4.0,7.6,6.7,279,3
+736,Queens,Cross Bay Diner,Diner,37.2,40302.0,44.2,11.8,0.5,16.6,88,1
+737,Bronx,SUBWAY,Sandwich Place,44.5,14050.0,16.1,39.0,7.5,15.2,2,1
+738,Bronx,S&J Deli,Deli / Bodega,42.5,18727.0,22.4,29.1,8.4,14.8,12,3
+739,Manhattan,New York Yoga - Hot Yoga,Yoga Studio,29.4,142557.0,77.0,3.5,11.4,4.4,38,4
+740,Staten Island,Duffy's Tavern,Burger Joint,34.8,40747.0,49.5,15.8,2.1,30.1,35,1
+741,Brooklyn,Elan Salon & Day Spa,Spa,40.7,70579.0,75.6,3.9,5.0,12.4,5,4
+742,Queens,Super Deli,Deli / Bodega,54.6,33629.0,35.0,22.4,2.9,19.3,0,3
+743,Queens,The Beerkeeper,Bar,36.2,26473.0,31.9,28.3,2.3,3.5,17,2
+744,Brooklyn,Vekslers,Bar,37.6,56582.0,66.3,6.0,5.5,13.3,138,2
+745,Brooklyn,Chocochino Cafe,Café,30.6,31503.0,49.5,9.9,14.6,16.3,2,2
+746,Brooklyn,Claudine's,Italian Restaurant,32.2,77933.0,67.5,7.8,11.2,6.7,22,0
+747,Bronx,Casa Della Mozzarella,Deli / Bodega,40.8,13881.0,25.1,35.3,19.0,9.8,72,3
+748,Queens,Sanger Hall,Bar,38.2,32920.0,44.1,17.6,3.9,10.1,12,2
+749,Brooklyn,Harriet’s,Cocktail Bar,32.7,64507.0,66.6,9.3,9.1,9.3,13,2
+750,Manhattan,Bettolona,Italian Restaurant,33.4,33953.0,63.3,12.4,19.6,12.5,90,0
+751,Staten Island,Rosebank Tavern,Bar,43.2,34202.0,30.7,13.5,6.6,15.5,4,2
+752,Queens,Subway,Sandwich Place,41.3,33648.0,41.2,30.6,5.0,10.3,2,1
+753,Brooklyn,Someday Bar,Bar,33.3,60451.0,69.0,11.1,6.7,9.9,22,2
+754,Manhattan,Emmy Squared,Pizza Place,26.8,141682.0,79.0,1.7,11.6,2.9,12,0
+755,Brooklyn,Malai,Ice Cream Shop,34.6,82970.0,77.1,2.1,7.7,9.0,40,3
+756,Brooklyn,McDonald's,Fast Food Restaurant,50.1,24921.0,33.1,33.7,2.2,20.9,30,1
+757,Bronx,Estrellita Poblana,Mexican Restaurant,40.8,13881.0,25.1,35.3,19.0,9.8,67,1
+758,Brooklyn,Daymoves,Coffee Shop,31.6,62145.0,75.9,6.5,4.9,4.9,37,2
+759,Staten Island,Planet Wings,Fast Food Restaurant,39.9,41245.0,44.6,23.8,5.3,22.6,7,1
+760,Queens,River Japanese Cuisine,Sushi Restaurant,43.8,39540.0,50.7,14.0,2.6,18.7,44,1
+761,Bronx,MTA MaBSTOA Bus Bx4 / Bx4A at Intervale & Westchester Avenues,Bus Station,44.5,14050.0,16.1,39.0,7.5,15.2,0,5
+762,Brooklyn,Samurai Mama,Japanese Restaurant,33.6,51020.0,64.8,11.2,3.9,7.8,331,1
+763,Manhattan,CVS pharmacy,Pharmacy,41.5,21559.0,30.2,28.8,5.4,11.2,1,3
+764,Bronx,Chase Bank,Bank,46.3,57617.0,65.0,15.6,6.5,18.5,0,5
+765,Brooklyn,Vinny's of Carroll Gardens,Italian Restaurant,32.2,77933.0,67.5,7.8,11.2,6.7,63,0
+766,Staten Island,Jody's Club Forest,Bar,39.9,41245.0,44.6,23.8,5.3,22.6,25,2
+767,Manhattan,Equinox® at M Club,Gym / Fitness Center,30.2,80989.0,56.3,12.9,42.7,5.6,24,4
+768,Manhattan,Brearley Field House,Gym,30.7,91861.0,75.7,3.4,12.7,6.1,14,4
+769,Staten Island,MTA Bus - Bay St & Nautilus St (S51),Bus Stop,43.2,34202.0,30.7,13.5,6.6,15.5,0,5
+770,Manhattan,Buttercup Bake Shop,Bakery,24.6,120863.0,65.9,7.6,42.9,5.8,100,3
+771,Manhattan,Handcraft Coffee,Coffee Shop,26.8,141682.0,79.0,1.7,11.6,2.9,70,2
+772,Manhattan,Whitmans,Burger Joint,30.3,55645.0,66.3,13.4,21.6,8.3,209,1
+773,Brooklyn,Shake Shack,Burger Joint,22.5,80454.0,67.8,6.9,32.0,10.8,439,1
+774,Staten Island,Every Thing Goes Cafe and Bookstore,Café,41.0,21351.0,27.6,21.5,4.8,18.7,28,2
+775,Bronx,Shorehaven River View Playground.,Playground,45.0,27700.0,32.2,23.4,1.4,25.3,0,5
+776,Bronx,ALDI Food Market,Supermarket,33.8,28097.0,42.0,16.6,2.4,21.7,46,3
+777,Manhattan,Ess-a-Bagel,Bagel Shop,29.7,57640.0,68.6,10.5,20.3,13.4,159,3
+778,Bronx,Lucky Star Restaurant,Chinese Restaurant,40.9,17870.0,24.5,29.2,6.6,12.1,0,1
+779,Bronx,Pugsley Pizza,Pizza Place,29.1,7124.0,24.1,23.2,36.5,11.0,58,0
+780,Bronx,Burns Playground,Playground,33.8,28097.0,42.0,16.6,2.4,21.7,1,5
+781,Manhattan,B. Cafe - East,Café,27.0,95574.0,72.6,5.5,22.9,7.7,56,2
+782,Manhattan,Gourmet Deli,Deli / Bodega,35.7,30439.0,55.1,26.3,12.1,11.9,6,3
+783,Brooklyn,Lee Chinese Restaraunt,Chinese Restaurant,49.8,18133.0,18.0,37.8,5.2,22.1,0,1
+784,Bronx,Marisco Centro Seafood Restaurant,Seafood Restaurant,48.4,18825.0,24.3,29.6,6.7,16.8,4,1
+785,Brooklyn,Café d'Avignon,Café,33.5,50871.0,62.6,11.5,9.7,11.2,41,2
+786,Manhattan,Sushi Noz,Sushi Restaurant,27.0,95574.0,72.6,5.5,22.9,7.7,23,1
+787,Queens,Brookside Market,Coffee Shop,39.1,34488.0,38.6,24.3,7.5,9.8,20,2
+788,Manhattan,Eli's Night Shift,Bar,27.0,95574.0,72.6,5.5,22.9,7.7,46,2
+789,Brooklyn,F&F Pizzeria,Pizza Place,35.9,68519.0,71.1,8.7,10.1,19.4,100,0
+790,Manhattan,Kochi,Korean Restaurant,28.5,89203.0,67.6,11.1,33.0,4.2,14,1
+791,Staten Island,Starbucks,Coffee Shop,35.3,46678.0,43.1,15.0,0.8,30.1,2,2
+792,Brooklyn,Planted,Coffee Shop,32.2,77933.0,67.5,7.8,11.2,6.7,19,2
+793,Brooklyn,Pokito,Cocktail Bar,33.2,28717.0,42.0,19.9,9.0,7.9,42,2
+794,Brooklyn,Mile End Delicatessen,Sandwich Place,33.3,60451.0,69.0,11.1,6.7,9.9,754,1
+795,Manhattan,Pescatore Seafood,Seafood Restaurant,29.9,91200.0,74.8,3.2,46.1,9.1,12,1
+796,Manhattan,Yura On East End,Deli / Bodega,31.5,97580.0,67.6,4.0,12.0,4.7,22,3
+797,Queens,Little Neck Drugstore,Pharmacy,42.1,35634.0,46.5,17.4,6.9,14.8,0,3
+798,Queens,The Butcher Block,Grocery Store,39.1,34488.0,38.6,24.3,7.5,9.8,63,3
+799,Manhattan,Independence Park,Park,48.8,34826.0,34.6,14.1,0.7,27.6,0,4
